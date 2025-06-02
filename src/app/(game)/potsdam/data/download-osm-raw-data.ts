@@ -1,10 +1,7 @@
-import { linesMetadata, type SourceJson } from './config.ts'
+import { linesMetadata, type SourceJson } from './config'
 import axios from 'axios'
 import * as path from 'path'
 import { promises as fs } from 'fs'
-import { fileURLToPath } from 'url'
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 const osmApi = axios.create({
   baseURL: 'https://www.openstreetmap.org/api/0.6/',

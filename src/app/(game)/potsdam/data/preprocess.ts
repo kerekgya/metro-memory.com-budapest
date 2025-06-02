@@ -1,8 +1,7 @@
 import * as path from 'path'
 import { promises as fs } from 'fs'
-import { fileURLToPath } from 'url'
 import Color from 'color'
-import { alternateNames, linesMetadata, type SourceJson } from './config.ts'
+import { alternateNames, linesMetadata, type SourceJson } from './config'
 
 const Bun = {
   file(path: string) {
@@ -17,8 +16,6 @@ const Bun = {
     await fs.writeFile(path, content, 'utf8')
   },
 }
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 type StationsFeatureCollection = {
   type: 'FeatureCollection'
