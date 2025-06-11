@@ -316,6 +316,9 @@ export default function GamePage({
             0,
           ],
         },
+        layout: {
+          'circle-sort-key': ['-', 100, ['get', 'order']],
+        },
       })
 
       mapboxMap.addLayer({
