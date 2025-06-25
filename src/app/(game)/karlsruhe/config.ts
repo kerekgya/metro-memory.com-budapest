@@ -173,10 +173,12 @@ export const LINES: {
 
 export const METADATA: Metadata = {
   title: 'Karlsruhe Tram(-Train) Memory',
-  description: '',
+  description:
+    'How many of the Karlsruhe tram(-train) stations can you name from memory?',
   openGraph: {
     title: 'Karlsruhe Tram(-Train) Memory',
-    description: '',
+    description:
+      'How many of the Karlsruhe tram(-train) stations can you name from memory?',
     type: 'website',
     locale: 'de_DE',
     url: 'https://metro-memory.com/karlsruhe',
