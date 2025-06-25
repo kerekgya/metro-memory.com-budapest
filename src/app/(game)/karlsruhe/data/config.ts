@@ -30,7 +30,7 @@ export const linesMetadata: {
   Karlsruhe1: {
     name: '1',
     osm: {
-      relationIds: [176700],
+      relationIds: [176607, 176700],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -39,7 +39,7 @@ export const linesMetadata: {
   Karlsruhe2: {
     name: '2',
     osm: {
-      relationIds: [174426],
+      relationIds: [174425, 174426],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -48,7 +48,7 @@ export const linesMetadata: {
   Karlsruhe3: {
     name: '3',
     osm: {
-      relationIds: [165332],
+      relationIds: [165331, 165332, 3874520],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -57,7 +57,7 @@ export const linesMetadata: {
   Karlsruhe4: {
     name: '4',
     osm: {
-      relationIds: [174632],
+      relationIds: [174631, 174632],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -66,7 +66,7 @@ export const linesMetadata: {
   Karlsruhe5: {
     name: '5',
     osm: {
-      relationIds: [175161],
+      relationIds: [175160, 175161],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -85,7 +85,7 @@ export const linesMetadata: {
   Karlsruhe17: {
     name: '17',
     osm: {
-      relationIds: [16291132],
+      relationIds: [16285895, 16291132],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -94,7 +94,7 @@ export const linesMetadata: {
   Karlsruhe18: {
     name: '18',
     osm: {
-      relationIds: [6061799],
+      relationIds: [6061799, 6061800],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -103,7 +103,7 @@ export const linesMetadata: {
   KarlsruheS1: {
     name: 'S1',
     osm: {
-      relationIds: [169136],
+      relationIds: [169136, 169137, 5977154, 15090241],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -112,7 +112,7 @@ export const linesMetadata: {
   KarlsruheS11: {
     name: 'S11',
     osm: {
-      relationIds: [173173],
+      relationIds: [173172, 173173, 5977152],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -121,7 +121,7 @@ export const linesMetadata: {
   KarlsruheS12: {
     name: 'S12',
     osm: {
-      relationIds: [5976991],
+      relationIds: [5976991, 5977151],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -130,7 +130,7 @@ export const linesMetadata: {
   KarlsruheS2: {
     name: 'S2',
     osm: {
-      relationIds: [177453],
+      relationIds: [177452, 177453, 5976209, 5976210, 5976223],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -140,7 +140,7 @@ export const linesMetadata: {
   KarlsruheS31: {
     name: 'S31',
     osm: {
-      relationIds: [6027183],
+      relationIds: [6027183, 6030012],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -149,7 +149,7 @@ export const linesMetadata: {
   KarlsruheS32: {
     name: 'S32',
     osm: {
-      relationIds: [15009870],
+      relationIds: [4587063, 15009870],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -158,7 +158,7 @@ export const linesMetadata: {
   KarlsruheS4: {
     name: 'S4',
     osm: {
-      relationIds: [2395144],
+      relationIds: [2395144, 2400967],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -167,7 +167,7 @@ export const linesMetadata: {
   KarlsruheS5: {
     name: 'S5',
     osm: {
-      relationIds: [2083867],
+      relationIds: [2083867, 4292645],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -176,7 +176,7 @@ export const linesMetadata: {
   KarlsruheS51: {
     name: 'S51',
     osm: {
-      relationIds: [6063258],
+      relationIds: [6063258, 6063264],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -185,7 +185,7 @@ export const linesMetadata: {
   KarlsruheS52: {
     name: 'S52',
     osm: {
-      relationIds: [1622732],
+      relationIds: [1607109, 1622732],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -194,7 +194,7 @@ export const linesMetadata: {
   KarlsruheS6: {
     name: 'S6',
     osm: {
-      relationIds: [192247],
+      relationIds: [192247, 192248],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -203,7 +203,7 @@ export const linesMetadata: {
   KarlsruheS7: {
     name: 'S7',
     osm: {
-      relationIds: [182371],
+      relationIds: [182368, 182371],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -212,7 +212,7 @@ export const linesMetadata: {
   KarlsruheS71: {
     name: 'S71',
     osm: {
-      relationIds: [6796258],
+      relationIds: [68015, 6796258],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -221,7 +221,7 @@ export const linesMetadata: {
   KarlsruheS8: {
     name: 'S8',
     osm: {
-      relationIds: [190111],
+      relationIds: [190111, 190112],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -236,101 +236,11 @@ export const linesMetadata: {
     },
     color: '#6e692a',
   },
-
-  /*
-  PotsdamTram98: {
-    name: '98',
-    osm: {
-      // route_master (1490387) contains old/incorrect relations from/to Schloss Charlottenhof
-      relationIds: [
-        // Bisamkiez => Platz der Einheit/Nord (missing alternative Bhf Rehbrücke => Waldstr./Horstweg)
-        12013203,
-        // Platz der Einheit/Nord => Bahnhof Rehbrücke (missing alternative Waldstr./Horstweg => Bisamkiez)
-        12013205,
-        // missing parts / alternative routes are added below
-      ],
-      extraStationNodeIds: [],
-      extraRouteWayIds: [],
-    },
-    color: '#009edd',
-  },
-  */
 }
 
 // ----------------------------------------
 // extra nodes/ways (not included in relations)
 // ----------------------------------------
-
-/*
-// 91 route_master is missing alternative Platz der Einheit/Nord => Platz der Einheit/West (to Bahnhof Rehbrücke)
-linesMetadata.PotsdamTram91.osm.extraStationNodeIds.push(288588455)
-linesMetadata.PotsdamTram91.osm.extraRouteWayIds.push(49982660)
-// 91 route_master is missing alternative Alter Markt/Landtag => Platz der Einheit/Nord (from Bahnhof Rehbrücke)
-linesMetadata.PotsdamTram91.osm.extraStationNodeIds.push(1456277747, 288588455)
-linesMetadata.PotsdamTram91.osm.extraRouteWayIds.push(
-  132376260,
-  1353033951,
-  884313069,
-  884337338,
-  37914110,
-  1242367276,
-  132378596,
-  1354490324,
-)
-
-// 92 relation 300929 is missing stop Alter Markt/Landtag
-linesMetadata.PotsdamTram92.osm.extraStationNodeIds.push(2261350036)
-// 92 relations are missing stop Reiterweg/Alleestraße
-linesMetadata.PotsdamTram92.osm.extraStationNodeIds.push(252492610, 473713857)
-// 92 relations are missing alternative/stop S Potsdam Hauptbahnhof/Friedrich-Engels-Straße
-linesMetadata.PotsdamTram92.osm.extraStationNodeIds.push(9802947785)
-linesMetadata.PotsdamTram92.osm.extraRouteWayIds.push(1016394760, 1016394761)
-
-// 93 relations are missing alternative/stop S Potsdam Hauptbahnhof/Friedrich-Engels-Straße
-linesMetadata.PotsdamTram93.osm.extraStationNodeIds.push(9802947785)
-linesMetadata.PotsdamTram93.osm.extraRouteWayIds.push(1016394760, 1016394761)
-// 93 route_master is missing alternative Waldstr./Horstweg => Bisamkiez (only includes relation for Bisamkiez => Glienicker Brücke but not return direction; rest of the route (in that direction) is covered by other relations)
-linesMetadata.PotsdamTram93.osm.extraStationNodeIds.push(
-  1139573471,
-  30622561,
-  1193433542,
-)
-linesMetadata.PotsdamTram93.osm.extraRouteWayIds.push(
-  132574454,
-  242451428,
-  1241776627,
-  242451430,
-)
-// 93 paths around Platz der Einheit are not fully correct, but that's not too important
-
-// 98 relations are missing alternative Bhf Rehbrücke => Waldstr./Horstweg
-linesMetadata.PotsdamTram98.osm.extraStationNodeIds.push(
-  349113757,
-  2255903955,
-  2255903956,
-  1149196891,
-  1142818669,
-  30622461,
-)
-linesMetadata.PotsdamTram98.osm.extraRouteWayIds.push(205399268, 216253182)
-// 98 relations are missing alternative Waldstr./Horstweg => Bisamkiez
-linesMetadata.PotsdamTram98.osm.extraStationNodeIds.push(
-  1139573471,
-  30622561,
-  1193433542,
-)
-linesMetadata.PotsdamTram98.osm.extraRouteWayIds.push(
-  132574454,
-  242451428,
-  1241776627,
-  242451430,
-)
-
-// 99 relations are missing alternative/stop S Potsdam Hauptbahnhof/Friedrich-Engels-Straße
-linesMetadata.PotsdamTram99.osm.extraStationNodeIds.push(9802947785)
-linesMetadata.PotsdamTram99.osm.extraRouteWayIds.push(1016394760, 1016394761)
-
-*/
 
 // ----------------------------------------
 // alternate names
