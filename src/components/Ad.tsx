@@ -1,23 +1,33 @@
 'use client'
 
 import React, { useEffect, useRef } from 'react'
+import useAdBlocker from '@/hooks/useAdBlocker'
 
 export const AdBlock = () => {
   const ref = useRef<HTMLDivElement | null>(null)
+  const adBlocked = useAdBlocker()
 
   useEffect(() => {
+    if (adBlocked) return
+
     try {
       // the global script is loaded in the document head. pushing a new
       // request will render the ad without using document.write
       if (typeof window !== 'undefined') {
-        ;(window as any).adsbygoogle = (window as any).adsbygoogle || []
-        ;(window as any).adsbygoogle.push({})
+        const ads = (window as any).adsbygoogle
+        if (ads && typeof ads.push === 'function') {
+          ads.push({})
+        }
       }
     } catch (e) {
       // ignore ad rendering errors
       console.error('adsbygoogle error', e)
     }
-  }, [])
+  }, [adBlocked])
+
+  if (adBlocked) {
+    return null
+  }
 
   return (
     <ErrorBoundary>
