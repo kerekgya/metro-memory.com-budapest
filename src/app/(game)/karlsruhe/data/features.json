@@ -30,6 +30,9 @@
       "properties": {
         "id": 946,
         "name": "Karl-Weysser-Straße",
+        "alternate_names": [
+          "Karl-Weysser-Str"
+        ],
         "line": "Karlsruhe1",
         "order": 1
       },
@@ -81,6 +84,9 @@
       "properties": {
         "id": 198,
         "name": "Auer Straße/Dr. Willmar Schwabe",
+        "alternate_names": [
+          "Auer Str/Dr. Willmar Schwabe"
+        ],
         "line": "Karlsruhe1",
         "order": 1
       },
@@ -98,6 +104,9 @@
       "properties": {
         "id": 197,
         "name": "Untermühlstraße",
+        "alternate_names": [
+          "Untermühlstr"
+        ],
         "line": "Karlsruhe1",
         "order": 1
       },
@@ -132,6 +141,9 @@
       "properties": {
         "id": 195,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "Karlsruhe1",
         "order": 1
       },
@@ -207,7 +219,8 @@
         "id": 191,
         "name": "Marktplatz (Kaiserstraße U)",
         "alternate_names": [
-          "Marktplatz"
+          "Marktplatz",
+          "Marktplatz (Kaiserstr U)"
         ],
         "line": "Karlsruhe1",
         "order": 1
@@ -247,7 +260,8 @@
         "id": 189,
         "name": "Mühlburger Tor (Grashofstraße)",
         "alternate_names": [
-          "Mühlburger Tor"
+          "Mühlburger Tor",
+          "Mühlburger Tor (Grashofstr)"
         ],
         "line": "Karlsruhe1",
         "order": 1
@@ -300,6 +314,9 @@
       "properties": {
         "id": 186,
         "name": "Lilienthalstraße",
+        "alternate_names": [
+          "Lilienthalstr"
+        ],
         "line": "Karlsruhe1",
         "order": 1
       },
@@ -371,6 +388,9 @@
       "properties": {
         "id": 244,
         "name": "Wolfartsweier Nord",
+        "alternate_names": [
+          "Wolfartsweier"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -405,6 +425,9 @@
       "properties": {
         "id": 242,
         "name": "Steiermärker Straße",
+        "alternate_names": [
+          "Steiermärker Str"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -422,6 +445,9 @@
       "properties": {
         "id": 241,
         "name": "Schlesier Straße (West)",
+        "alternate_names": [
+          "Schlesier Str (West)"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -439,6 +465,9 @@
       "properties": {
         "id": 240,
         "name": "Ostmarkstraße",
+        "alternate_names": [
+          "Ostmarkstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -456,6 +485,9 @@
       "properties": {
         "id": 239,
         "name": "Ellmendinger Straße",
+        "alternate_names": [
+          "Ellmendinger Str"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -473,6 +505,9 @@
       "properties": {
         "id": 238,
         "name": "Killisfeldstraße",
+        "alternate_names": [
+          "Killisfeldstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -490,6 +525,9 @@
       "properties": {
         "id": 237,
         "name": "Gritznerstraße",
+        "alternate_names": [
+          "Gritznerstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -507,6 +545,9 @@
       "properties": {
         "id": 236,
         "name": "Auer Straße/Dr. Willmar Schwabe",
+        "alternate_names": [
+          "Auer Str/Dr. Willmar Schwabe"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -524,6 +565,9 @@
       "properties": {
         "id": 235,
         "name": "Untermühlstraße",
+        "alternate_names": [
+          "Untermühlstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -558,6 +602,9 @@
       "properties": {
         "id": 233,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -692,6 +739,9 @@
       "properties": {
         "id": 226,
         "name": "Augartenstraße",
+        "alternate_names": [
+          "Augartenstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -709,6 +759,9 @@
       "properties": {
         "id": 225,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -727,7 +780,9 @@
         "id": 224,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "Karlsruhe2",
         "order": 4
@@ -746,6 +801,9 @@
       "properties": {
         "id": 223,
         "name": "Ebertstraße",
+        "alternate_names": [
+          "Ebertstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -780,6 +838,9 @@
       "properties": {
         "id": 221,
         "name": "Welfenstraße",
+        "alternate_names": [
+          "Welfenstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -814,6 +875,9 @@
       "properties": {
         "id": 219,
         "name": "Arbeitsagentur",
+        "alternate_names": [
+          "Arb.tsagentur"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -831,6 +895,9 @@
       "properties": {
         "id": 218,
         "name": "Otto-Sachs-Straße",
+        "alternate_names": [
+          "Otto-Sachs-Str"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -848,6 +915,9 @@
       "properties": {
         "id": 217,
         "name": "Mathystraße",
+        "alternate_names": [
+          "Mathystr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -883,7 +953,8 @@
         "id": 215,
         "name": "Europaplatz (Karlstraße)",
         "alternate_names": [
-          "Europaplatz"
+          "Europaplatz",
+          "Europaplatz (Karlstr)"
         ],
         "line": "Karlsruhe2",
         "order": 4
@@ -903,7 +974,8 @@
         "id": 214,
         "name": "Europaplatz (Kaiserstraße)",
         "alternate_names": [
-          "Europaplatz"
+          "Europaplatz",
+          "Europaplatz (Kaiserstr)"
         ],
         "line": "Karlsruhe2",
         "order": 4
@@ -939,6 +1011,9 @@
       "properties": {
         "id": 212,
         "name": "Yorckstraße",
+        "alternate_names": [
+          "Yorckstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -956,6 +1031,9 @@
       "properties": {
         "id": 211,
         "name": "Moltkestraße/Städtisches Klinikum",
+        "alternate_names": [
+          "Moltkestr/Städtisches Klinikum"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -973,6 +1051,9 @@
       "properties": {
         "id": 210,
         "name": "Kußmaulstraße/Städtisches Klinikum",
+        "alternate_names": [
+          "Kußmaulstr/Städtisches Klinikum"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -990,6 +1071,9 @@
       "properties": {
         "id": 209,
         "name": "Hertzstraße",
+        "alternate_names": [
+          "Hertzstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -1024,6 +1108,9 @@
       "properties": {
         "id": 207,
         "name": "Neureuter Straße",
+        "alternate_names": [
+          "Neureuter Str"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -1058,6 +1145,9 @@
       "properties": {
         "id": 205,
         "name": "Sudetenstraße",
+        "alternate_names": [
+          "Sudetenstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -1075,6 +1165,9 @@
       "properties": {
         "id": 204,
         "name": "Pionierstraße",
+        "alternate_names": [
+          "Pionierstr"
+        ],
         "line": "Karlsruhe2",
         "order": 4
       },
@@ -1143,6 +1236,9 @@
       "properties": {
         "id": 273,
         "name": "Forststraße",
+        "alternate_names": [
+          "Forststr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1160,6 +1256,9 @@
       "properties": {
         "id": 272,
         "name": "Dunantstraße",
+        "alternate_names": [
+          "Dunantstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1262,6 +1361,9 @@
       "properties": {
         "id": 266,
         "name": "Werderstraße",
+        "alternate_names": [
+          "Werderstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1296,6 +1398,9 @@
       "properties": {
         "id": 264,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1314,7 +1419,9 @@
         "id": 263,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "Karlsruhe3",
         "order": 5
@@ -1333,6 +1440,9 @@
       "properties": {
         "id": 262,
         "name": "Ebertstraße",
+        "alternate_names": [
+          "Ebertstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1367,6 +1477,9 @@
       "properties": {
         "id": 260,
         "name": "Mathystraße",
+        "alternate_names": [
+          "Mathystr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1402,7 +1515,8 @@
         "id": 258,
         "name": "Europaplatz (Karlstraße)",
         "alternate_names": [
-          "Europaplatz"
+          "Europaplatz",
+          "Europaplatz (Karlstr)"
         ],
         "line": "Karlsruhe3",
         "order": 5
@@ -1422,7 +1536,8 @@
         "id": 257,
         "name": "Europaplatz (Kaiserstraße)",
         "alternate_names": [
-          "Europaplatz"
+          "Europaplatz",
+          "Europaplatz (Kaiserstr)"
         ],
         "line": "Karlsruhe3",
         "order": 5
@@ -1458,6 +1573,9 @@
       "properties": {
         "id": 255,
         "name": "Yorckstraße",
+        "alternate_names": [
+          "Yorckstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1475,6 +1593,9 @@
       "properties": {
         "id": 254,
         "name": "Händelstraße",
+        "alternate_names": [
+          "Händelstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1492,6 +1613,9 @@
       "properties": {
         "id": 253,
         "name": "Philippstraße",
+        "alternate_names": [
+          "Philippstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1543,6 +1667,9 @@
       "properties": {
         "id": 250,
         "name": "Starckstraße",
+        "alternate_names": [
+          "Starckstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1594,6 +1721,9 @@
       "properties": {
         "id": 247,
         "name": "Herweghstraße",
+        "alternate_names": [
+          "Herweghstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1611,6 +1741,9 @@
       "properties": {
         "id": 246,
         "name": "Eggensteiner Straße",
+        "alternate_names": [
+          "Eggensteiner Str"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1628,6 +1761,9 @@
       "properties": {
         "id": 245,
         "name": "Rheinbergstraße",
+        "alternate_names": [
+          "Rheinbergstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1645,6 +1781,9 @@
       "properties": {
         "id": 947,
         "name": "Eckenerstraße",
+        "alternate_names": [
+          "Eckenerstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1696,6 +1835,9 @@
       "properties": {
         "id": 950,
         "name": "Ankerstraße",
+        "alternate_names": [
+          "Ankerstr"
+        ],
         "line": "Karlsruhe3",
         "order": 5
       },
@@ -1781,6 +1923,9 @@
       "properties": {
         "id": 302,
         "name": "Osteroder Straße",
+        "alternate_names": [
+          "Osteroder Str"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -1798,6 +1943,9 @@
       "properties": {
         "id": 301,
         "name": "Elbinger Straße (Ost)",
+        "alternate_names": [
+          "Elbinger Str (Ost)"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -1849,6 +1997,9 @@
       "properties": {
         "id": 298,
         "name": "Glogauer Straße",
+        "alternate_names": [
+          "Glogauer Str"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -1900,6 +2051,9 @@
       "properties": {
         "id": 295,
         "name": "Sinsheimer Straße",
+        "alternate_names": [
+          "Sinsheimer Str"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -1917,6 +2071,9 @@
       "properties": {
         "id": 294,
         "name": "Hirtenweg - Technologiepark",
+        "alternate_names": [
+          "Hirtenweg/Technologiepark"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -2037,7 +2194,8 @@
         "id": 954,
         "name": "Europaplatz (Karlstraße)",
         "alternate_names": [
-          "Europaplatz"
+          "Europaplatz",
+          "Europaplatz (Karlstr)"
         ],
         "line": "Karlsruhe4",
         "order": 6
@@ -2057,7 +2215,8 @@
         "id": 287,
         "name": "Europaplatz (Kaiserstraße)",
         "alternate_names": [
-          "Europaplatz"
+          "Europaplatz",
+          "Europaplatz (Kaiserstr)"
         ],
         "line": "Karlsruhe4",
         "order": 6
@@ -2093,6 +2252,9 @@
       "properties": {
         "id": 285,
         "name": "Schillerstraße",
+        "alternate_names": [
+          "Schillerstr"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -2110,6 +2272,9 @@
       "properties": {
         "id": 284,
         "name": "Sophienstraße",
+        "alternate_names": [
+          "Sophienstr"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -2212,6 +2377,9 @@
       "properties": {
         "id": 278,
         "name": "Albert-Braun-Straße",
+        "alternate_names": [
+          "Albert-Braun-Str"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -2246,6 +2414,9 @@
       "properties": {
         "id": 276,
         "name": "Wilhelm-Leuschner-Straße",
+        "alternate_names": [
+          "Wilhelm-Leuschner-Str"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -2263,6 +2434,10 @@
       "properties": {
         "id": 275,
         "name": "Badeniaplatz",
+        "alternate_names": [
+          "Oberreut Badeniaplatz",
+          "Oberreut"
+        ],
         "line": "Karlsruhe4",
         "order": 6
       },
@@ -2280,6 +2455,9 @@
       "properties": {
         "id": 304,
         "name": "Karlsruhe-Durlach",
+        "alternate_names": [
+          "Durlach Bf"
+        ],
         "line": "Karlsruhe5",
         "order": 7
       },
@@ -2297,6 +2475,9 @@
       "properties": {
         "id": 305,
         "name": "Untermühlstraße",
+        "alternate_names": [
+          "Untermühlstr"
+        ],
         "line": "Karlsruhe5",
         "order": 7
       },
@@ -2331,6 +2512,9 @@
       "properties": {
         "id": 307,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "Karlsruhe5",
         "order": 7
       },
@@ -2365,6 +2549,9 @@
       "properties": {
         "id": 309,
         "name": "Wolfartsweierer Straße",
+        "alternate_names": [
+          "Wolfartsweierer Str"
+        ],
         "line": "Karlsruhe5",
         "order": 7
       },
@@ -2382,6 +2569,9 @@
       "properties": {
         "id": 310,
         "name": "Ostendstraße",
+        "alternate_names": [
+          "Ostendstr"
+        ],
         "line": "Karlsruhe5",
         "order": 7
       },
@@ -2450,6 +2640,9 @@
       "properties": {
         "id": 314,
         "name": "Mathystraße",
+        "alternate_names": [
+          "Mathystr"
+        ],
         "line": "Karlsruhe5",
         "order": 7
       },
@@ -2467,6 +2660,9 @@
       "properties": {
         "id": 315,
         "name": "Otto-Sachs-Straße",
+        "alternate_names": [
+          "Otto-Sachs-Str"
+        ],
         "line": "Karlsruhe5",
         "order": 7
       },
@@ -2484,6 +2680,9 @@
       "properties": {
         "id": 316,
         "name": "Lessingstraße",
+        "alternate_names": [
+          "Lessingstr"
+        ],
         "line": "Karlsruhe5",
         "order": 7
       },
@@ -2518,6 +2717,9 @@
       "properties": {
         "id": 318,
         "name": "Hübschstraße",
+        "alternate_names": [
+          "Hübschstr"
+        ],
         "line": "Karlsruhe5",
         "order": 7
       },
@@ -2637,6 +2839,9 @@
       "properties": {
         "id": 325,
         "name": "Karl-Weysser-Straße",
+        "alternate_names": [
+          "Karl-Weysser-Str"
+        ],
         "line": "Karlsruhe8",
         "order": 8
       },
@@ -2688,6 +2893,9 @@
       "properties": {
         "id": 328,
         "name": "Gritznerstraße",
+        "alternate_names": [
+          "Gritznerstr"
+        ],
         "line": "Karlsruhe8",
         "order": 8
       },
@@ -2705,6 +2913,9 @@
       "properties": {
         "id": 329,
         "name": "Killisfeldstraße",
+        "alternate_names": [
+          "Killisfeldstr"
+        ],
         "line": "Karlsruhe8",
         "order": 8
       },
@@ -2722,6 +2933,9 @@
       "properties": {
         "id": 330,
         "name": "Ellmendinger Straße",
+        "alternate_names": [
+          "Ellmendinger Str"
+        ],
         "line": "Karlsruhe8",
         "order": 8
       },
@@ -2739,6 +2953,9 @@
       "properties": {
         "id": 331,
         "name": "Ostmarkstraße",
+        "alternate_names": [
+          "Ostmarkstr"
+        ],
         "line": "Karlsruhe8",
         "order": 8
       },
@@ -2756,6 +2973,9 @@
       "properties": {
         "id": 332,
         "name": "Schlesier Straße (West)",
+        "alternate_names": [
+          "Schlesier Str (West)"
+        ],
         "line": "Karlsruhe8",
         "order": 8
       },
@@ -2773,6 +2993,9 @@
       "properties": {
         "id": 333,
         "name": "Steiermärker Straße",
+        "alternate_names": [
+          "Steiermärker Str"
+        ],
         "line": "Karlsruhe8",
         "order": 8
       },
@@ -2807,6 +3030,9 @@
       "properties": {
         "id": 335,
         "name": "Wolfartsweier Nord",
+        "alternate_names": [
+          "Wolfartsweier"
+        ],
         "line": "Karlsruhe8",
         "order": 8
       },
@@ -2841,6 +3067,9 @@
       "properties": {
         "id": 369,
         "name": "Osteroder Straße",
+        "alternate_names": [
+          "Osteroder Str"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -2858,6 +3087,9 @@
       "properties": {
         "id": 368,
         "name": "Elbinger Straße (Ost)",
+        "alternate_names": [
+          "Elbinger Str (Ost)"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -2909,6 +3141,9 @@
       "properties": {
         "id": 365,
         "name": "Glogauer Straße",
+        "alternate_names": [
+          "Glogauer Str"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -2960,6 +3195,9 @@
       "properties": {
         "id": 362,
         "name": "Sinsheimer Straße",
+        "alternate_names": [
+          "Sinsheimer Str"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -2977,6 +3215,9 @@
       "properties": {
         "id": 361,
         "name": "Hirtenweg - Technologiepark",
+        "alternate_names": [
+          "Hirtenweg/Technologiepark"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -2994,6 +3235,9 @@
       "properties": {
         "id": 359,
         "name": "Essenweinstraße",
+        "alternate_names": [
+          "Essenweinstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3011,6 +3255,9 @@
       "properties": {
         "id": 358,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3045,6 +3292,9 @@
       "properties": {
         "id": 356,
         "name": "Wolfartsweierer Straße",
+        "alternate_names": [
+          "Wolfartsweierer Str"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3062,6 +3312,9 @@
       "properties": {
         "id": 353,
         "name": "Werderstraße",
+        "alternate_names": [
+          "Werderstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3096,6 +3349,9 @@
       "properties": {
         "id": 351,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3114,7 +3370,9 @@
         "id": 350,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "Karlsruhe17",
         "order": 2
@@ -3133,6 +3391,9 @@
       "properties": {
         "id": 349,
         "name": "Ebertstraße",
+        "alternate_names": [
+          "Ebertstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3167,6 +3428,9 @@
       "properties": {
         "id": 347,
         "name": "Mathystraße",
+        "alternate_names": [
+          "Mathystr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3184,6 +3448,9 @@
       "properties": {
         "id": 346,
         "name": "Otto-Sachs-Straße",
+        "alternate_names": [
+          "Otto-Sachs-Str"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3201,6 +3468,9 @@
       "properties": {
         "id": 345,
         "name": "Lessingstraße",
+        "alternate_names": [
+          "Lessingstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3235,6 +3505,9 @@
       "properties": {
         "id": 343,
         "name": "Sophienstraße",
+        "alternate_names": [
+          "Sophienstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3252,6 +3525,9 @@
       "properties": {
         "id": 342,
         "name": "Schillerstraße",
+        "alternate_names": [
+          "Schillerstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3269,6 +3545,9 @@
       "properties": {
         "id": 341,
         "name": "Yorckstraße",
+        "alternate_names": [
+          "Yorckstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3286,6 +3565,9 @@
       "properties": {
         "id": 340,
         "name": "Händelstraße",
+        "alternate_names": [
+          "Händelstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3303,6 +3585,9 @@
       "properties": {
         "id": 339,
         "name": "Philippstraße",
+        "alternate_names": [
+          "Philippstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3388,6 +3673,9 @@
       "properties": {
         "id": 355,
         "name": "Ostendstraße",
+        "alternate_names": [
+          "Ostendstr"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3405,6 +3693,9 @@
       "properties": {
         "id": 354,
         "name": "Philipp-Reis-Straße / die neue welle",
+        "alternate_names": [
+          "Philipp-Reis-Str / die neue welle"
+        ],
         "line": "Karlsruhe17",
         "order": 2
       },
@@ -3439,6 +3730,9 @@
       "properties": {
         "id": 955,
         "name": "Osteroder Straße",
+        "alternate_names": [
+          "Osteroder Str"
+        ],
         "line": "Karlsruhe18",
         "order": 3
       },
@@ -3456,6 +3750,9 @@
       "properties": {
         "id": 956,
         "name": "Elbinger Straße (Ost)",
+        "alternate_names": [
+          "Elbinger Str (Ost)"
+        ],
         "line": "Karlsruhe18",
         "order": 3
       },
@@ -3507,6 +3804,9 @@
       "properties": {
         "id": 959,
         "name": "Glogauer Straße",
+        "alternate_names": [
+          "Glogauer Str"
+        ],
         "line": "Karlsruhe18",
         "order": 3
       },
@@ -3558,6 +3858,9 @@
       "properties": {
         "id": 960,
         "name": "Sinsheimer Straße",
+        "alternate_names": [
+          "Sinsheimer Str"
+        ],
         "line": "Karlsruhe18",
         "order": 3
       },
@@ -3575,6 +3878,9 @@
       "properties": {
         "id": 961,
         "name": "Hirtenweg - Technologiepark",
+        "alternate_names": [
+          "Hirtenweg/Technologiepark"
+        ],
         "line": "Karlsruhe18",
         "order": 3
       },
@@ -3609,6 +3915,9 @@
       "properties": {
         "id": 376,
         "name": "Essenweinstraße",
+        "alternate_names": [
+          "Essenweinstr"
+        ],
         "line": "Karlsruhe18",
         "order": 3
       },
@@ -3626,6 +3935,9 @@
       "properties": {
         "id": 375,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "Karlsruhe18",
         "order": 3
       },
@@ -3643,6 +3955,9 @@
       "properties": {
         "id": 962,
         "name": "Auer Straße/Dr. Willmar Schwabe",
+        "alternate_names": [
+          "Auer Str/Dr. Willmar Schwabe"
+        ],
         "line": "Karlsruhe18",
         "order": 3
       },
@@ -3711,6 +4026,9 @@
       "properties": {
         "id": 372,
         "name": "Karl-Weysser-Straße",
+        "alternate_names": [
+          "Karl-Weysser-Str"
+        ],
         "line": "Karlsruhe18",
         "order": 3
       },
@@ -3745,6 +4063,9 @@
       "properties": {
         "id": 382,
         "name": "Altenheim",
+        "alternate_names": [
+          "Hochstetten Altenheim"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -3762,6 +4083,11 @@
       "properties": {
         "id": 383,
         "name": "Grenzstraße",
+        "alternate_names": [
+          "Hochstetten Grenzstraße",
+          "Hochstetten Grenzstr",
+          "Grenzstr"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -3779,6 +4105,9 @@
       "properties": {
         "id": 384,
         "name": "Schulzentrum",
+        "alternate_names": [
+          "Linkenheim Schulzentrum"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -3813,6 +4142,9 @@
       "properties": {
         "id": 386,
         "name": "Linkenheim Friedrichstraße",
+        "alternate_names": [
+          "Linkenheim Friedrichstr"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -3847,6 +4179,11 @@
       "properties": {
         "id": 388,
         "name": "Frankfurter Straße",
+        "alternate_names": [
+          "Leopoldshafen Frankfurter Straße",
+          "Leopoldshafen Frankfurter Str",
+          "Frankfurter Str"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -3864,6 +4201,9 @@
       "properties": {
         "id": 389,
         "name": "Leopoldshafen Leopoldstraße",
+        "alternate_names": [
+          "Leopoldshafen Leopoldstr"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -3881,6 +4221,9 @@
       "properties": {
         "id": 390,
         "name": "Viermorgen",
+        "alternate_names": [
+          "Leopoldshafen Viermorgen"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -3898,6 +4241,9 @@
       "properties": {
         "id": 391,
         "name": "Eggenstein Schweriner Straße",
+        "alternate_names": [
+          "Eggenstein Schweriner Str"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -3915,6 +4261,9 @@
       "properties": {
         "id": 392,
         "name": "Spöcker Weg",
+        "alternate_names": [
+          "Eggenstein Spöcker Weg"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -3983,6 +4332,9 @@
       "properties": {
         "id": 396,
         "name": "Adolf-Ehrmann-Bad",
+        "alternate_names": [
+          "Neureut Adolf-Ehrmann-Bad"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4000,6 +4352,9 @@
       "properties": {
         "id": 397,
         "name": "Bärenweg",
+        "alternate_names": [
+          "Neureut Bärenweg"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4017,6 +4372,11 @@
       "properties": {
         "id": 398,
         "name": "Welschneureuter Straße",
+        "alternate_names": [
+          "Neureut Welschneureuter Straße",
+          "Neureut Welschneureuter Str",
+          "Welschneureuter Str"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4051,6 +4411,9 @@
       "properties": {
         "id": 400,
         "name": "Kurt-Schumacher-Straße",
+        "alternate_names": [
+          "Kurt-Schumacher-Str"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4068,6 +4431,9 @@
       "properties": {
         "id": 401,
         "name": "August-Bebel-Straße",
+        "alternate_names": [
+          "August-Bebel-Str"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4102,6 +4468,9 @@
       "properties": {
         "id": 403,
         "name": "Moltkestraße/Städtisches Klinikum",
+        "alternate_names": [
+          "Moltkestr/Städtisches Klinikum"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4119,6 +4488,9 @@
       "properties": {
         "id": 404,
         "name": "Yorckstraße",
+        "alternate_names": [
+          "Yorckstr"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4174,7 +4546,8 @@
         "id": 407,
         "name": "Marktplatz (Kaiserstraße U)",
         "alternate_names": [
-          "Marktplatz"
+          "Marktplatz",
+          "Marktplatz (Kaiserstr U)"
         ],
         "line": "KarlsruheS1",
         "order": 9
@@ -4253,6 +4626,9 @@
       "properties": {
         "id": 411,
         "name": "Augartenstraße",
+        "alternate_names": [
+          "Augartenstr"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4270,6 +4646,9 @@
       "properties": {
         "id": 412,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4288,7 +4667,9 @@
         "id": 413,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "KarlsruheS1",
         "order": 9
@@ -4358,6 +4739,9 @@
       "properties": {
         "id": 417,
         "name": "Ostendorfplatz",
+        "alternate_names": [
+          "Rüppurr Ostendorfplatz"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4375,6 +4759,11 @@
       "properties": {
         "id": 418,
         "name": "Tulpenstraße",
+        "alternate_names": [
+          "Rüppurr Tulpenstraße",
+          "Rüppurr Tulpenstr",
+          "Tulpenstr"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4392,6 +4781,11 @@
       "properties": {
         "id": 419,
         "name": "Battstraße",
+        "alternate_names": [
+          "Rüppurr Battstraße",
+          "Rüppurr Battstr",
+          "Battstr"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4443,6 +4837,9 @@
       "properties": {
         "id": 422,
         "name": "Ettlingen Erbprinz",
+        "alternate_names": [
+          "Ettlingen Erbprinz/Schloss"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4647,6 +5044,11 @@
       "properties": {
         "id": 963,
         "name": "KIT-Campus Nord Bahnhof",
+        "alternate_names": [
+          "KIT-Campus Nord",
+          "KIT-Campus Nord Bf",
+          "KIT-Campus Nord"
+        ],
         "line": "KarlsruheS1",
         "order": 9
       },
@@ -4681,6 +5083,9 @@
       "properties": {
         "id": 435,
         "name": "Altenheim",
+        "alternate_names": [
+          "Hochstetten Altenheim"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4698,6 +5103,11 @@
       "properties": {
         "id": 436,
         "name": "Grenzstraße",
+        "alternate_names": [
+          "Hochstetten Grenzstraße",
+          "Hochstetten Grenzstr",
+          "Grenzstr"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4715,6 +5125,9 @@
       "properties": {
         "id": 437,
         "name": "Schulzentrum",
+        "alternate_names": [
+          "Linkenheim Schulzentrum"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4749,6 +5162,9 @@
       "properties": {
         "id": 439,
         "name": "Linkenheim Friedrichstraße",
+        "alternate_names": [
+          "Linkenheim Friedrichstr"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4783,6 +5199,11 @@
       "properties": {
         "id": 441,
         "name": "Frankfurter Straße",
+        "alternate_names": [
+          "Leopoldshafen Frankfurter Straße",
+          "Leopoldshafen Frankfurter Str",
+          "Frankfurter Str"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4800,6 +5221,9 @@
       "properties": {
         "id": 442,
         "name": "Leopoldshafen Leopoldstraße",
+        "alternate_names": [
+          "Leopoldshafen Leopoldstr"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4817,6 +5241,9 @@
       "properties": {
         "id": 443,
         "name": "Viermorgen",
+        "alternate_names": [
+          "Leopoldshafen Viermorgen"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4834,6 +5261,9 @@
       "properties": {
         "id": 444,
         "name": "Eggenstein Schweriner Straße",
+        "alternate_names": [
+          "Eggenstein Schweriner Str"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4851,6 +5281,9 @@
       "properties": {
         "id": 445,
         "name": "Spöcker Weg",
+        "alternate_names": [
+          "Eggenstein Spöcker Weg"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4919,6 +5352,9 @@
       "properties": {
         "id": 449,
         "name": "Adolf-Ehrmann-Bad",
+        "alternate_names": [
+          "Neureut Adolf-Ehrmann-Bad"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4936,6 +5372,9 @@
       "properties": {
         "id": 450,
         "name": "Bärenweg",
+        "alternate_names": [
+          "Neureut Bärenweg"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4953,6 +5392,11 @@
       "properties": {
         "id": 451,
         "name": "Welschneureuter Straße",
+        "alternate_names": [
+          "Neureut Welschneureuter Straße",
+          "Neureut Welschneureuter Str",
+          "Welschneureuter Str"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -4987,6 +5431,9 @@
       "properties": {
         "id": 453,
         "name": "Kurt-Schumacher-Straße",
+        "alternate_names": [
+          "Kurt-Schumacher-Str"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5004,6 +5451,9 @@
       "properties": {
         "id": 454,
         "name": "August-Bebel-Straße",
+        "alternate_names": [
+          "August-Bebel-Str"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5038,6 +5488,9 @@
       "properties": {
         "id": 456,
         "name": "Moltkestraße/Städtisches Klinikum",
+        "alternate_names": [
+          "Moltkestr/Städtisches Klinikum"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5055,6 +5508,9 @@
       "properties": {
         "id": 457,
         "name": "Yorckstraße",
+        "alternate_names": [
+          "Yorckstr"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5110,7 +5566,8 @@
         "id": 460,
         "name": "Marktplatz (Kaiserstraße U)",
         "alternate_names": [
-          "Marktplatz"
+          "Marktplatz",
+          "Marktplatz (Kaiserstr U)"
         ],
         "line": "KarlsruheS11",
         "order": 10
@@ -5189,6 +5646,9 @@
       "properties": {
         "id": 464,
         "name": "Augartenstraße",
+        "alternate_names": [
+          "Augartenstr"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5206,6 +5666,9 @@
       "properties": {
         "id": 465,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5224,7 +5687,9 @@
         "id": 466,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "KarlsruheS11",
         "order": 10
@@ -5294,6 +5759,9 @@
       "properties": {
         "id": 470,
         "name": "Ostendorfplatz",
+        "alternate_names": [
+          "Rüppurr Ostendorfplatz"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5311,6 +5779,11 @@
       "properties": {
         "id": 471,
         "name": "Tulpenstraße",
+        "alternate_names": [
+          "Rüppurr Tulpenstraße",
+          "Rüppurr Tulpenstr",
+          "Tulpenstr"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5328,6 +5801,11 @@
       "properties": {
         "id": 472,
         "name": "Battstraße",
+        "alternate_names": [
+          "Rüppurr Battstraße",
+          "Rüppurr Battstr",
+          "Battstr"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5379,6 +5857,9 @@
       "properties": {
         "id": 475,
         "name": "Ettlingen Erbprinz",
+        "alternate_names": [
+          "Ettlingen Erbprinz/Schloss"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5481,6 +5962,10 @@
       "properties": {
         "id": 481,
         "name": "Reichenbach Bahnhof",
+        "alternate_names": [
+          "Reichenbach Bf",
+          "Reichenbach"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5515,6 +6000,10 @@
       "properties": {
         "id": 483,
         "name": "Langensteinbach Bahnhof",
+        "alternate_names": [
+          "Langensteinbach Bf",
+          "Langensteinbach"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5617,6 +6106,11 @@
       "properties": {
         "id": 964,
         "name": "KIT-Campus Nord Bahnhof",
+        "alternate_names": [
+          "KIT-Campus Nord",
+          "KIT-Campus Nord Bf",
+          "KIT-Campus Nord"
+        ],
         "line": "KarlsruheS11",
         "order": 10
       },
@@ -5685,6 +6179,9 @@
       "properties": {
         "id": 492,
         "name": "Philippstraße",
+        "alternate_names": [
+          "Philippstr"
+        ],
         "line": "KarlsruheS12",
         "order": 11
       },
@@ -5702,6 +6199,9 @@
       "properties": {
         "id": 493,
         "name": "Händelstraße",
+        "alternate_names": [
+          "Händelstr"
+        ],
         "line": "KarlsruheS12",
         "order": 11
       },
@@ -5719,6 +6219,9 @@
       "properties": {
         "id": 494,
         "name": "Yorckstraße",
+        "alternate_names": [
+          "Yorckstr"
+        ],
         "line": "KarlsruheS12",
         "order": 11
       },
@@ -5754,7 +6257,8 @@
         "id": 496,
         "name": "Europaplatz (Kaiserstraße)",
         "alternate_names": [
-          "Europaplatz"
+          "Europaplatz",
+          "Europaplatz (Kaiserstr)"
         ],
         "line": "KarlsruheS12",
         "order": 11
@@ -5774,7 +6278,8 @@
         "id": 497,
         "name": "Europaplatz (Karlstraße)",
         "alternate_names": [
-          "Europaplatz"
+          "Europaplatz",
+          "Europaplatz (Karlstr)"
         ],
         "line": "KarlsruheS12",
         "order": 11
@@ -5810,6 +6315,9 @@
       "properties": {
         "id": 499,
         "name": "Mathystraße",
+        "alternate_names": [
+          "Mathystr"
+        ],
         "line": "KarlsruheS12",
         "order": 11
       },
@@ -5844,6 +6352,9 @@
       "properties": {
         "id": 501,
         "name": "Ebertstraße",
+        "alternate_names": [
+          "Ebertstr"
+        ],
         "line": "KarlsruheS12",
         "order": 11
       },
@@ -5895,6 +6406,9 @@
       "properties": {
         "id": 504,
         "name": "Ettlingen Erbprinz",
+        "alternate_names": [
+          "Ettlingen Erbprinz/Schloss"
+        ],
         "line": "KarlsruheS12",
         "order": 11
       },
@@ -5963,6 +6477,10 @@
       "properties": {
         "id": 508,
         "name": "Reichenbach Bahnhof",
+        "alternate_names": [
+          "Reichenbach Bf",
+          "Reichenbach"
+        ],
         "line": "KarlsruheS12",
         "order": 11
       },
@@ -5997,6 +6515,10 @@
       "properties": {
         "id": 510,
         "name": "Langensteinbach Bahnhof",
+        "alternate_names": [
+          "Langensteinbach Bf",
+          "Langensteinbach"
+        ],
         "line": "KarlsruheS12",
         "order": 11
       },
@@ -6099,6 +6621,9 @@
       "properties": {
         "id": 562,
         "name": "Richard-Hecht-Schule",
+        "alternate_names": [
+          "Spöck Richard-Hecht-Schule"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6167,6 +6692,9 @@
       "properties": {
         "id": 558,
         "name": "Friedrichstal (Baden) Saint-Riquier-Platz",
+        "alternate_names": [
+          "Friedrichstal Saint-Riquier-Platz"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6235,6 +6763,9 @@
       "properties": {
         "id": 554,
         "name": "Tolnaplatz",
+        "alternate_names": [
+          "Blankenloch Tolna-Platz"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6303,6 +6834,9 @@
       "properties": {
         "id": 550,
         "name": "Jenaer Straße",
+        "alternate_names": [
+          "Jenaer Str"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6337,6 +6871,12 @@
       "properties": {
         "id": 548,
         "name": "Bahnhof Hagsfeld",
+        "alternate_names": [
+          "Hagsfeld",
+          "Hagsfeld Bf",
+          "Bf Hagsfeld",
+          "Bahnhof Hagsfeld"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6371,6 +6911,9 @@
       "properties": {
         "id": 546,
         "name": "Sinsheimer Straße",
+        "alternate_names": [
+          "Sinsheimer Str"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6388,6 +6931,9 @@
       "properties": {
         "id": 545,
         "name": "Hirtenweg - Technologiepark",
+        "alternate_names": [
+          "Hirtenweg/Technologiepark"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6422,6 +6968,9 @@
       "properties": {
         "id": 543,
         "name": "Essenweinstraße",
+        "alternate_names": [
+          "Essenweinstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6439,6 +6988,9 @@
       "properties": {
         "id": 542,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6514,7 +7066,8 @@
         "id": 538,
         "name": "Marktplatz (Kaiserstraße U)",
         "alternate_names": [
-          "Marktplatz"
+          "Marktplatz",
+          "Marktplatz (Kaiserstr U)"
         ],
         "line": "KarlsruheS2",
         "order": 12
@@ -6570,6 +7123,9 @@
       "properties": {
         "id": 535,
         "name": "Yorckstraße",
+        "alternate_names": [
+          "Yorckstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6587,6 +7143,9 @@
       "properties": {
         "id": 534,
         "name": "Händelstraße",
+        "alternate_names": [
+          "Händelstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6604,6 +7163,9 @@
       "properties": {
         "id": 533,
         "name": "Philippstraße",
+        "alternate_names": [
+          "Philippstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6638,6 +7200,9 @@
       "properties": {
         "id": 531,
         "name": "Eckenerstraße",
+        "alternate_names": [
+          "Eckenerstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6655,6 +7220,9 @@
       "properties": {
         "id": 530,
         "name": "Rheinhafenstraße",
+        "alternate_names": [
+          "Rheinhafenstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6672,6 +7240,9 @@
       "properties": {
         "id": 529,
         "name": "Thomas-Mann-Straße",
+        "alternate_names": [
+          "Thomas-Mann-Str"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6689,6 +7260,9 @@
       "properties": {
         "id": 528,
         "name": "Karl-Delisle-Straße",
+        "alternate_names": [
+          "Karl-Delisle-Str"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6740,6 +7314,10 @@
       "properties": {
         "id": 526,
         "name": "Forchheim Messe",
+        "alternate_names": [
+          "Forchheim Leichtsandstr/Messe Karlsruhe",
+          "Forchheim Leichtsandstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6774,6 +7352,9 @@
       "properties": {
         "id": 524,
         "name": "Forchheim Hauptstraße",
+        "alternate_names": [
+          "Forchheim Hauptstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6791,6 +7372,9 @@
       "properties": {
         "id": 523,
         "name": "Forchheim Oberfeldstraße",
+        "alternate_names": [
+          "Forchheim Oberfeldstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6825,6 +7409,9 @@
       "properties": {
         "id": 521,
         "name": "Mörsch Narzissenstraße",
+        "alternate_names": [
+          "Mörsch Narzissenstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6842,6 +7429,9 @@
       "properties": {
         "id": 520,
         "name": "Mörsch Römerstraße",
+        "alternate_names": [
+          "Mörsch Römerstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6859,6 +7449,9 @@
       "properties": {
         "id": 519,
         "name": "Mörsch Rheinaustraße",
+        "alternate_names": [
+          "Mörsch Rheinaustr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6876,6 +7469,9 @@
       "properties": {
         "id": 518,
         "name": "Mörsch Merkurstraße",
+        "alternate_names": [
+          "Mörsch Merkurstr"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6927,6 +7523,9 @@
       "properties": {
         "id": 944,
         "name": "Reitschulschlag (Wendeschleife)",
+        "alternate_names": [
+          "Reitschulschlag"
+        ],
         "line": "KarlsruheS2",
         "order": 12
       },
@@ -6995,6 +7594,10 @@
       "properties": {
         "id": 566,
         "name": "Zeutern Bahnhof",
+        "alternate_names": [
+          "Zeutern Bf",
+          "Zeutern"
+        ],
         "line": "KarlsruheS31",
         "order": 13
       },
@@ -7029,6 +7632,9 @@
       "properties": {
         "id": 568,
         "name": "Stettfeld (Baden)",
+        "alternate_names": [
+          "Stettfeld"
+        ],
         "line": "KarlsruheS31",
         "order": 13
       },
@@ -7046,6 +7652,9 @@
       "properties": {
         "id": 569,
         "name": "Ubstadt Uhlandstraße",
+        "alternate_names": [
+          "Ubstadt Uhlandstr"
+        ],
         "line": "KarlsruheS31",
         "order": 13
       },
@@ -7165,6 +7774,9 @@
       "properties": {
         "id": 576,
         "name": "Weingarten (Baden)",
+        "alternate_names": [
+          "Weingarten"
+        ],
         "line": "KarlsruheS31",
         "order": 13
       },
@@ -7182,6 +7794,9 @@
       "properties": {
         "id": 577,
         "name": "Karlsruhe-Durlach",
+        "alternate_names": [
+          "Durlach Bf"
+        ],
         "line": "KarlsruheS31",
         "order": 13
       },
@@ -7200,7 +7815,8 @@
         "id": 578,
         "name": "Karlsruhe Hauptbahnhof",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Karlsruhe Hbf"
         ],
         "line": "KarlsruheS31",
         "order": 13
@@ -7220,7 +7836,8 @@
         "id": 592,
         "name": "Karlsruhe Hauptbahnhof",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Karlsruhe Hbf"
         ],
         "line": "KarlsruheS32",
         "order": 14
@@ -7239,6 +7856,9 @@
       "properties": {
         "id": 591,
         "name": "Karlsruhe-Durlach",
+        "alternate_names": [
+          "Durlach Bf"
+        ],
         "line": "KarlsruheS32",
         "order": 14
       },
@@ -7256,6 +7876,9 @@
       "properties": {
         "id": 590,
         "name": "Weingarten (Baden)",
+        "alternate_names": [
+          "Weingarten"
+        ],
         "line": "KarlsruheS32",
         "order": 14
       },
@@ -7375,6 +7998,9 @@
       "properties": {
         "id": 583,
         "name": "Ubstadt Salzbrunnenstraße",
+        "alternate_names": [
+          "Ubstadt Salzbrunnenstr"
+        ],
         "line": "KarlsruheS32",
         "order": 14
       },
@@ -7392,6 +8018,9 @@
       "properties": {
         "id": 582,
         "name": "Unteröwisheim Martin-Luther-Straße",
+        "alternate_names": [
+          "Unteröwisheim Martin-Luther-Str"
+        ],
         "line": "KarlsruheS32",
         "order": 14
       },
@@ -7409,6 +8038,10 @@
       "properties": {
         "id": 581,
         "name": "Unteröwisheim Bahnhof",
+        "alternate_names": [
+          "Unteröwisheim Bf",
+          "Unteröwisheim"
+        ],
         "line": "KarlsruheS32",
         "order": 14
       },
@@ -7545,6 +8178,9 @@
       "properties": {
         "id": 594,
         "name": "Öhringen Hauptbahnhof",
+        "alternate_names": [
+          "Öhringen Hbf"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -7589,8 +8225,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.4405793,
-          49.1729594
+          9.4405923,
+          49.1729563
         ]
       },
       "properties": {
@@ -7647,6 +8283,10 @@
       "properties": {
         "id": 600,
         "name": "Eschenau",
+        "alternate_names": [
+          "Eschenau (bei Heilbronn)",
+          "Eschenau (b. Heilbronn)"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -7878,8 +8518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.2185778,
-          49.1419972
+          9.2185843,
+          49.1420258
         ]
       },
       "properties": {
@@ -7895,13 +8535,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.2143526,
-          49.1425651
+          9.2136717,
+          49.1426794
         ]
       },
       "properties": {
         "id": 615,
         "name": "Neckarturm am Kurt-Schumacher-Platz",
+        "alternate_names": [
+          "Neckarturm"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -7936,6 +8579,9 @@
       "properties": {
         "id": 617,
         "name": "Berufsschulzentrum",
+        "alternate_names": [
+          "Böckingen Berufsschulzentrum"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8055,6 +8701,9 @@
       "properties": {
         "id": 624,
         "name": "Schwaigern (Württemberg)",
+        "alternate_names": [
+          "Schwaigern"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8174,6 +8823,9 @@
       "properties": {
         "id": 631,
         "name": "Sulzfeld (Baden)",
+        "alternate_names": [
+          "Sulzfeld"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8259,6 +8911,9 @@
       "properties": {
         "id": 636,
         "name": "Gölshausen Industriegebiet",
+        "alternate_names": [
+          "Gölshausen Industrie"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8361,6 +9016,10 @@
       "properties": {
         "id": 642,
         "name": "Bretten Bahnhof",
+        "alternate_names": [
+          "Bretten Bf",
+          "Bretten"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8429,6 +9088,10 @@
       "properties": {
         "id": 646,
         "name": "Wössingen Bahnhof",
+        "alternate_names": [
+          "Wössingen Bf",
+          "Wössingen"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8497,6 +9160,9 @@
       "properties": {
         "id": 650,
         "name": "Grötzingen Oberausstraße",
+        "alternate_names": [
+          "Grötzingen Oberausstr"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8514,6 +9180,10 @@
       "properties": {
         "id": 651,
         "name": "Grötzingen Bahnhof",
+        "alternate_names": [
+          "Grötzingen Bf",
+          "Grötzingen"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8531,6 +9201,9 @@
       "properties": {
         "id": 652,
         "name": "Karlsruhe-Durlach",
+        "alternate_names": [
+          "Durlach Bf"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8548,6 +9221,9 @@
       "properties": {
         "id": 653,
         "name": "Untermühlstraße",
+        "alternate_names": [
+          "Untermühlstr"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8582,6 +9258,9 @@
       "properties": {
         "id": 655,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8716,6 +9395,9 @@
       "properties": {
         "id": 662,
         "name": "Augartenstraße",
+        "alternate_names": [
+          "Augartenstr"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8733,6 +9415,9 @@
       "properties": {
         "id": 663,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "KarlsruheS4",
         "order": 15
       },
@@ -8751,7 +9436,9 @@
         "id": 664,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "KarlsruheS4",
         "order": 15
@@ -8780,6 +9467,791 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.1435454,
+          49.3523112
+        ]
+      },
+      "properties": {
+        "id": 976,
+        "name": "Mosbach (Baden)",
+        "alternate_names": [
+          "Mosbach"
+        ],
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 976
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1340522,
+          49.3467412
+        ]
+      },
+      "properties": {
+        "id": 977,
+        "name": "Mosbach West",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 977
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1128609,
+          49.3488679
+        ]
+      },
+      "properties": {
+        "id": 978,
+        "name": "Mosbach-Neckarelz",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 978
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1375582,
+          49.3165172
+        ]
+      },
+      "properties": {
+        "id": 979,
+        "name": "Neckarzimmern",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 979
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1540566,
+          49.3041206
+        ]
+      },
+      "properties": {
+        "id": 980,
+        "name": "Haßmersheim",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 980
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1579609,
+          49.2829282
+        ]
+      },
+      "properties": {
+        "id": 981,
+        "name": "Gundelsheim (Neckar)",
+        "alternate_names": [
+          "Gundelsheim"
+        ],
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 981
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1654208,
+          49.2456192
+        ]
+      },
+      "properties": {
+        "id": 982,
+        "name": "Offenau",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 982
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.199777,
+          49.2316258
+        ]
+      },
+      "properties": {
+        "id": 983,
+        "name": "Bad Friedrichshall Hauptbahnhof",
+        "alternate_names": [
+          "Bad Friedrichshall-Jagstfeld",
+          "Bad Friedrichshall Hbf"
+        ],
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 983
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2107522,
+          49.2188515
+        ]
+      },
+      "properties": {
+        "id": 984,
+        "name": "Bad Friedrichshall-Kochendorf",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 984
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2286243,
+          49.2018685
+        ]
+      },
+      "properties": {
+        "id": 985,
+        "name": "Neckarsulm Nord",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 985
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2228758,
+          49.1933652
+        ]
+      },
+      "properties": {
+        "id": 986,
+        "name": "Neckarsulm Mitte",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 986
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2194633,
+          49.1888944
+        ]
+      },
+      "properties": {
+        "id": 987,
+        "name": "Neckarsulm",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 987
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2204042,
+          49.1805128
+        ]
+      },
+      "properties": {
+        "id": 988,
+        "name": "Neckarsulm Süd",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 988
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2244673,
+          49.1702011
+        ]
+      },
+      "properties": {
+        "id": 989,
+        "name": "Kaufland",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 989
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2195451,
+          49.1623339
+        ]
+      },
+      "properties": {
+        "id": 990,
+        "name": "Hans-Rießer-Straße",
+        "alternate_names": [
+          "Hans-Rießer-Str"
+        ],
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 990
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2178225,
+          49.1551438
+        ]
+      },
+      "properties": {
+        "id": 991,
+        "name": "Industrieplatz",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 991
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2214563,
+          49.1486464
+        ]
+      },
+      "properties": {
+        "id": 992,
+        "name": "Technisches Schulzentrum",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 992
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2225604,
+          49.1462244
+        ]
+      },
+      "properties": {
+        "id": 993,
+        "name": "Theater",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 993
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2222939,
+          49.1423143
+        ]
+      },
+      "properties": {
+        "id": 994,
+        "name": "Harmonie/Hafenmarktpassage",
+        "alternate_names": [
+          "Harmonie"
+        ],
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 994
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2185843,
+          49.1420258
+        ]
+      },
+      "properties": {
+        "id": 995,
+        "name": "Rathaus",
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 995
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2136717,
+          49.1426794
+        ]
+      },
+      "properties": {
+        "id": 996,
+        "name": "Neckarturm am Kurt-Schumacher-Platz",
+        "alternate_names": [
+          "Neckarturm"
+        ],
+        "line": "KarlsruheS41",
+        "order": 16
+      },
+      "id": 996
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8758996,
+          49.2500016
+        ]
+      },
+      "properties": {
+        "id": 997,
+        "name": "Sinsheim (Elsenz) Hauptbahnhof",
+        "alternate_names": [
+          "Sinsheim Hauptbahnhof",
+          "Sinsheim Hbf",
+          "Sinsheim (Elsenz) Hbf"
+        ],
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 997
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9010434,
+          49.2406832
+        ]
+      },
+      "properties": {
+        "id": 998,
+        "name": "Sinsheim Museum/Arena",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 998
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9076198,
+          49.2361824
+        ]
+      },
+      "properties": {
+        "id": 999,
+        "name": "Steinsfurt",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 999
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9969007,
+          49.2261079
+        ]
+      },
+      "properties": {
+        "id": 1000,
+        "name": "Grombach",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1000
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0607605,
+          49.2401687
+        ]
+      },
+      "properties": {
+        "id": 1001,
+        "name": "Babstadt",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1001
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.101546,
+          49.2377496
+        ]
+      },
+      "properties": {
+        "id": 1002,
+        "name": "Bad Rappenau",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1002
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1135782,
+          49.2403748
+        ]
+      },
+      "properties": {
+        "id": 1003,
+        "name": "Bad Rappenau Kurpark",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1003
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1385661,
+          49.242456
+        ]
+      },
+      "properties": {
+        "id": 1004,
+        "name": "Bad Wimpfen-Hohenstadt",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1004
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1678792,
+          49.2295641
+        ]
+      },
+      "properties": {
+        "id": 1005,
+        "name": "Bad Wimpfen",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1005
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1994654,
+          49.231314
+        ]
+      },
+      "properties": {
+        "id": 1006,
+        "name": "Bad Friedrichshall Hauptbahnhof",
+        "alternate_names": [
+          "Bad Friedrichshall-Jagstfeld",
+          "Bad Friedrichshall Hbf"
+        ],
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1006
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2107522,
+          49.2188515
+        ]
+      },
+      "properties": {
+        "id": 1007,
+        "name": "Bad Friedrichshall-Kochendorf",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1007
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2286243,
+          49.2018685
+        ]
+      },
+      "properties": {
+        "id": 1008,
+        "name": "Neckarsulm Nord",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1008
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2228758,
+          49.1933652
+        ]
+      },
+      "properties": {
+        "id": 1009,
+        "name": "Neckarsulm Mitte",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1009
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2194633,
+          49.1888944
+        ]
+      },
+      "properties": {
+        "id": 1010,
+        "name": "Neckarsulm",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1010
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2204042,
+          49.1805128
+        ]
+      },
+      "properties": {
+        "id": 1011,
+        "name": "Neckarsulm Süd",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1011
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2244673,
+          49.1702011
+        ]
+      },
+      "properties": {
+        "id": 1012,
+        "name": "Kaufland",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1012
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2195451,
+          49.1623339
+        ]
+      },
+      "properties": {
+        "id": 1013,
+        "name": "Hans-Rießer-Straße",
+        "alternate_names": [
+          "Hans-Rießer-Str"
+        ],
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1013
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2178225,
+          49.1551438
+        ]
+      },
+      "properties": {
+        "id": 1014,
+        "name": "Industrieplatz",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1014
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2214563,
+          49.1486464
+        ]
+      },
+      "properties": {
+        "id": 1015,
+        "name": "Technisches Schulzentrum",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1015
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2225604,
+          49.1462244
+        ]
+      },
+      "properties": {
+        "id": 1016,
+        "name": "Theater",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1016
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2222939,
+          49.1423143
+        ]
+      },
+      "properties": {
+        "id": 1017,
+        "name": "Harmonie/Hafenmarktpassage",
+        "alternate_names": [
+          "Harmonie"
+        ],
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1017
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2185843,
+          49.1420258
+        ]
+      },
+      "properties": {
+        "id": 1018,
+        "name": "Rathaus",
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1018
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2136717,
+          49.1426794
+        ]
+      },
+      "properties": {
+        "id": 1019,
+        "name": "Neckarturm am Kurt-Schumacher-Platz",
+        "alternate_names": [
+          "Neckarturm"
+        ],
+        "line": "KarlsruheS42",
+        "order": 17
+      },
+      "id": 1019
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.2438816,
           49.0586792
         ]
@@ -8787,8 +10259,11 @@
       "properties": {
         "id": 666,
         "name": "Wörth (Rhein) Badepark",
+        "alternate_names": [
+          "Wörth Badepark"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 666
     },
@@ -8804,8 +10279,11 @@
       "properties": {
         "id": 667,
         "name": "Wörth (Rhein) Badallee",
+        "alternate_names": [
+          "Wörth Badallee"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 667
     },
@@ -8822,7 +10300,7 @@
         "id": 668,
         "name": "Wörth Rathaus",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 668
     },
@@ -8838,8 +10316,11 @@
       "properties": {
         "id": 669,
         "name": "Wörth (Rhein) Bürgerpark",
+        "alternate_names": [
+          "Wörth Bürgerpark"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 669
     },
@@ -8855,8 +10336,11 @@
       "properties": {
         "id": 670,
         "name": "Wörth (Rhein) Bienwaldhalle",
+        "alternate_names": [
+          "Wörth Bienwaldhalle"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 670
     },
@@ -8872,8 +10356,11 @@
       "properties": {
         "id": 671,
         "name": "Wörth (Rhein) Alte Bahnmeisterei",
+        "alternate_names": [
+          "Wörth Alte Bahnmeisterei"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 671
     },
@@ -8889,8 +10376,11 @@
       "properties": {
         "id": 672,
         "name": "Wörth (Rhein)",
+        "alternate_names": [
+          "Wörth"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 672
     },
@@ -8907,7 +10397,7 @@
         "id": 673,
         "name": "Maximiliansau West",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 673
     },
@@ -8923,8 +10413,11 @@
       "properties": {
         "id": 674,
         "name": "Maximiliansau Eisenbahnstraße",
+        "alternate_names": [
+          "Maximiliansau Eisenbahnstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 674
     },
@@ -8941,7 +10434,7 @@
         "id": 675,
         "name": "Maxau",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 675
     },
@@ -8957,8 +10450,11 @@
       "properties": {
         "id": 676,
         "name": "Rheinbergstraße",
+        "alternate_names": [
+          "Rheinbergstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 676
     },
@@ -8974,8 +10470,11 @@
       "properties": {
         "id": 677,
         "name": "Eggensteiner Straße",
+        "alternate_names": [
+          "Eggensteiner Str"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 677
     },
@@ -8991,8 +10490,11 @@
       "properties": {
         "id": 678,
         "name": "Herweghstraße",
+        "alternate_names": [
+          "Herweghstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 678
     },
@@ -9009,7 +10511,7 @@
         "id": 679,
         "name": "Siemens",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 679
     },
@@ -9026,7 +10528,7 @@
         "id": 680,
         "name": "Mühlburg West",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 680
     },
@@ -9042,8 +10544,11 @@
       "properties": {
         "id": 681,
         "name": "Starckstraße",
+        "alternate_names": [
+          "Starckstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 681
     },
@@ -9060,7 +10565,7 @@
         "id": 682,
         "name": "Lameyplatz",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 682
     },
@@ -9077,7 +10582,7 @@
         "id": 683,
         "name": "Entenfang",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 683
     },
@@ -9093,8 +10598,11 @@
       "properties": {
         "id": 684,
         "name": "Philippstraße",
+        "alternate_names": [
+          "Philippstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 684
     },
@@ -9110,8 +10618,11 @@
       "properties": {
         "id": 685,
         "name": "Händelstraße",
+        "alternate_names": [
+          "Händelstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 685
     },
@@ -9127,8 +10638,11 @@
       "properties": {
         "id": 686,
         "name": "Yorckstraße",
+        "alternate_names": [
+          "Yorckstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 686
     },
@@ -9145,7 +10659,7 @@
         "id": 687,
         "name": "Mühlburger Tor",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 687
     },
@@ -9165,7 +10679,7 @@
           "Europaplatz"
         ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 688
     },
@@ -9182,10 +10696,11 @@
         "id": 689,
         "name": "Marktplatz (Kaiserstraße U)",
         "alternate_names": [
-          "Marktplatz"
+          "Marktplatz",
+          "Marktplatz (Kaiserstr U)"
         ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 689
     },
@@ -9205,7 +10720,7 @@
           "Kronenplatz"
         ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 690
     },
@@ -9225,7 +10740,7 @@
           "Durlacher Tor - KIT Campus Süd"
         ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 691
     },
@@ -9242,7 +10757,7 @@
         "id": 692,
         "name": "Gottesauer Platz/BGV",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 692
     },
@@ -9258,8 +10773,11 @@
       "properties": {
         "id": 693,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 693
     },
@@ -9276,7 +10794,7 @@
         "id": 694,
         "name": "Weinweg",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 694
     },
@@ -9292,8 +10810,11 @@
       "properties": {
         "id": 695,
         "name": "Untermühlstraße",
+        "alternate_names": [
+          "Untermühlstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 695
     },
@@ -9309,8 +10830,11 @@
       "properties": {
         "id": 696,
         "name": "Karlsruhe-Durlach",
+        "alternate_names": [
+          "Durlach Bf"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 696
     },
@@ -9326,8 +10850,11 @@
       "properties": {
         "id": 697,
         "name": "Hubstraße",
+        "alternate_names": [
+          "Hubstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 697
     },
@@ -9343,8 +10870,12 @@
       "properties": {
         "id": 698,
         "name": "Grötzingen Bahnhof",
+        "alternate_names": [
+          "Grötzingen Bf",
+          "Grötzingen"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 698
     },
@@ -9360,8 +10891,11 @@
       "properties": {
         "id": 699,
         "name": "Grötzingen Oberausstraße",
+        "alternate_names": [
+          "Grötzingen Oberausstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 699
     },
@@ -9378,7 +10912,7 @@
         "id": 700,
         "name": "Grötzingen Krappmühlenweg",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 700
     },
@@ -9395,7 +10929,7 @@
         "id": 701,
         "name": "Berghausen Pfinzbrücke",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 701
     },
@@ -9411,8 +10945,11 @@
       "properties": {
         "id": 702,
         "name": "Berghausen (Baden)",
+        "alternate_names": [
+          "Berghausen"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 702
     },
@@ -9429,7 +10966,7 @@
         "id": 703,
         "name": "Berghausen Am Stadion",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 703
     },
@@ -9445,8 +10982,11 @@
       "properties": {
         "id": 704,
         "name": "Söllingen Reetzstraße",
+        "alternate_names": [
+          "Söllingen Reetzstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 704
     },
@@ -9462,8 +11002,12 @@
       "properties": {
         "id": 705,
         "name": "Söllingen (bei Karlsruhe)",
+        "alternate_names": [
+          "Söllingen",
+          "Söllingen (b. Karlsruhe)"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 705
     },
@@ -9479,8 +11023,11 @@
       "properties": {
         "id": 706,
         "name": "Söllingen Kapellenstraße",
+        "alternate_names": [
+          "Söllingen Kapellenstr"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 706
     },
@@ -9497,7 +11044,7 @@
         "id": 707,
         "name": "Kleinsteinbach",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 707
     },
@@ -9514,7 +11061,7 @@
         "id": 708,
         "name": "Wilferdingen-Singen",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 708
     },
@@ -9530,8 +11077,11 @@
       "properties": {
         "id": 709,
         "name": "Königsbach (Baden)",
+        "alternate_names": [
+          "Königsbach"
+        ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 709
     },
@@ -9548,7 +11098,7 @@
         "id": 710,
         "name": "Bilfingen",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 710
     },
@@ -9565,7 +11115,7 @@
         "id": 711,
         "name": "Ersingen West",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 711
     },
@@ -9582,7 +11132,7 @@
         "id": 712,
         "name": "Ersingen",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 712
     },
@@ -9599,7 +11149,7 @@
         "id": 713,
         "name": "Ispringen",
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 713
     },
@@ -9619,7 +11169,7 @@
           "Pforzheim Hbf"
         ],
         "line": "KarlsruheS5",
-        "order": 16
+        "order": 18
       },
       "id": 714
     },
@@ -9636,7 +11186,7 @@
         "id": 715,
         "name": "Germersheim",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 715
     },
@@ -9653,7 +11203,7 @@
         "id": 716,
         "name": "Germersheim Mitte/Rhein",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 716
     },
@@ -9670,7 +11220,7 @@
         "id": 717,
         "name": "Germersheim Süd/Nolte",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 717
     },
@@ -9687,7 +11237,7 @@
         "id": 718,
         "name": "Sondernheim",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 718
     },
@@ -9704,7 +11254,7 @@
         "id": 719,
         "name": "Bellheim Am Mühlbuckel",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 719
     },
@@ -9720,8 +11270,12 @@
       "properties": {
         "id": 720,
         "name": "Bellheim Bahnhof",
+        "alternate_names": [
+          "Bellheim Bf",
+          "Bellheim"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 720
     },
@@ -9737,8 +11291,12 @@
       "properties": {
         "id": 721,
         "name": "Rülzheim Bahnhof",
+        "alternate_names": [
+          "Rülzheim Bf",
+          "Rülzheim"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 721
     },
@@ -9755,7 +11313,7 @@
         "id": 722,
         "name": "Rülzheim Freizeitzentrum",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 722
     },
@@ -9772,7 +11330,7 @@
         "id": 723,
         "name": "Rheinzabern",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 723
     },
@@ -9789,7 +11347,7 @@
         "id": 724,
         "name": "Rheinzabern Rappengasse",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 724
     },
@@ -9805,8 +11363,11 @@
       "properties": {
         "id": 725,
         "name": "Rheinzabern Alte Römerstraße",
+        "alternate_names": [
+          "Rheinzabern Alte Römerstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 725
     },
@@ -9822,8 +11383,12 @@
       "properties": {
         "id": 726,
         "name": "Jockgrim Bahnhof",
+        "alternate_names": [
+          "Jockgrim Bf",
+          "Jockgrim"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 726
     },
@@ -9839,8 +11404,11 @@
       "properties": {
         "id": 727,
         "name": "Wörth Zügelstraße",
+        "alternate_names": [
+          "Wörth Zügelstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 727
     },
@@ -9856,8 +11424,11 @@
       "properties": {
         "id": 728,
         "name": "Wörth (Rhein)",
+        "alternate_names": [
+          "Wörth"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 728
     },
@@ -9874,7 +11445,7 @@
         "id": 729,
         "name": "Maximiliansau West",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 729
     },
@@ -9890,8 +11461,11 @@
       "properties": {
         "id": 730,
         "name": "Maximiliansau Eisenbahnstraße",
+        "alternate_names": [
+          "Maximiliansau Eisenbahnstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 730
     },
@@ -9908,7 +11482,7 @@
         "id": 731,
         "name": "Maxau",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 731
     },
@@ -9924,8 +11498,11 @@
       "properties": {
         "id": 732,
         "name": "Rheinbergstraße",
+        "alternate_names": [
+          "Rheinbergstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 732
     },
@@ -9941,8 +11518,11 @@
       "properties": {
         "id": 733,
         "name": "Eggensteiner Straße",
+        "alternate_names": [
+          "Eggensteiner Str"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 733
     },
@@ -9958,8 +11538,11 @@
       "properties": {
         "id": 734,
         "name": "Herweghstraße",
+        "alternate_names": [
+          "Herweghstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 734
     },
@@ -9976,7 +11559,7 @@
         "id": 735,
         "name": "Siemens",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 735
     },
@@ -9993,7 +11576,7 @@
         "id": 736,
         "name": "Mühlburg West",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 736
     },
@@ -10009,8 +11592,11 @@
       "properties": {
         "id": 737,
         "name": "Starckstraße",
+        "alternate_names": [
+          "Starckstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 737
     },
@@ -10027,7 +11613,7 @@
         "id": 738,
         "name": "Lameyplatz",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 738
     },
@@ -10044,7 +11630,7 @@
         "id": 739,
         "name": "Entenfang",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 739
     },
@@ -10060,8 +11646,11 @@
       "properties": {
         "id": 740,
         "name": "Philippstraße",
+        "alternate_names": [
+          "Philippstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 740
     },
@@ -10077,8 +11666,11 @@
       "properties": {
         "id": 741,
         "name": "Händelstraße",
+        "alternate_names": [
+          "Händelstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 741
     },
@@ -10094,8 +11686,11 @@
       "properties": {
         "id": 742,
         "name": "Yorckstraße",
+        "alternate_names": [
+          "Yorckstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 742
     },
@@ -10112,7 +11707,7 @@
         "id": 743,
         "name": "Mühlburger Tor",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 743
     },
@@ -10132,7 +11727,7 @@
           "Europaplatz"
         ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 744
     },
@@ -10149,10 +11744,11 @@
         "id": 745,
         "name": "Marktplatz (Kaiserstraße U)",
         "alternate_names": [
-          "Marktplatz"
+          "Marktplatz",
+          "Marktplatz (Kaiserstr U)"
         ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 745
     },
@@ -10172,7 +11768,7 @@
           "Marktplatz"
         ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 746
     },
@@ -10192,7 +11788,7 @@
           "Ettlinger Tor"
         ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 747
     },
@@ -10212,7 +11808,7 @@
           "Kongresszentrum"
         ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 748
     },
@@ -10228,8 +11824,11 @@
       "properties": {
         "id": 749,
         "name": "Augartenstraße",
+        "alternate_names": [
+          "Augartenstr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 749
     },
@@ -10245,8 +11844,11 @@
       "properties": {
         "id": 750,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 750
     },
@@ -10263,10 +11865,12 @@
         "id": 751,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 751
     },
@@ -10283,7 +11887,7 @@
         "id": 752,
         "name": "Albtalbahnhof",
         "line": "KarlsruheS51",
-        "order": 17
+        "order": 19
       },
       "id": 752
     },
@@ -10300,7 +11904,7 @@
         "id": 771,
         "name": "Germersheim",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 771
     },
@@ -10317,7 +11921,7 @@
         "id": 770,
         "name": "Germersheim Mitte/Rhein",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 770
     },
@@ -10334,7 +11938,7 @@
         "id": 969,
         "name": "Germersheim Süd/Nolte",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 969
     },
@@ -10351,7 +11955,7 @@
         "id": 769,
         "name": "Sondernheim",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 769
     },
@@ -10368,7 +11972,7 @@
         "id": 970,
         "name": "Bellheim Am Mühlbuckel",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 970
     },
@@ -10384,8 +11988,12 @@
       "properties": {
         "id": 768,
         "name": "Bellheim Bahnhof",
+        "alternate_names": [
+          "Bellheim Bf",
+          "Bellheim"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 768
     },
@@ -10401,8 +12009,12 @@
       "properties": {
         "id": 767,
         "name": "Rülzheim Bahnhof",
+        "alternate_names": [
+          "Rülzheim Bf",
+          "Rülzheim"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 767
     },
@@ -10419,7 +12031,7 @@
         "id": 971,
         "name": "Rülzheim Freizeitzentrum",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 971
     },
@@ -10436,7 +12048,7 @@
         "id": 766,
         "name": "Rheinzabern",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 766
     },
@@ -10453,7 +12065,7 @@
         "id": 972,
         "name": "Rheinzabern Rappengasse",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 972
     },
@@ -10469,8 +12081,11 @@
       "properties": {
         "id": 765,
         "name": "Rheinzabern Alte Römerstraße",
+        "alternate_names": [
+          "Rheinzabern Alte Römerstr"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 765
     },
@@ -10486,8 +12101,12 @@
       "properties": {
         "id": 764,
         "name": "Jockgrim Bahnhof",
+        "alternate_names": [
+          "Jockgrim Bf",
+          "Jockgrim"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 764
     },
@@ -10503,8 +12122,11 @@
       "properties": {
         "id": 973,
         "name": "Wörth Zügelstraße",
+        "alternate_names": [
+          "Wörth Zügelstr"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 973
     },
@@ -10520,8 +12142,11 @@
       "properties": {
         "id": 763,
         "name": "Wörth (Rhein)",
+        "alternate_names": [
+          "Wörth"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 763
     },
@@ -10538,7 +12163,7 @@
         "id": 974,
         "name": "Maximiliansau West",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 974
     },
@@ -10554,8 +12179,11 @@
       "properties": {
         "id": 975,
         "name": "Maximiliansau Eisenbahnstraße",
+        "alternate_names": [
+          "Maximiliansau Eisenbahnstr"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 975
     },
@@ -10571,8 +12199,13 @@
       "properties": {
         "id": 762,
         "name": "Karlsruhe-Knielingen",
+        "alternate_names": [
+          "KA-Knielingen",
+          "Knielingen",
+          "Knielingen Bf"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 762
     },
@@ -10588,8 +12221,13 @@
       "properties": {
         "id": 761,
         "name": "Karlsruhe-Mühlburg",
+        "alternate_names": [
+          "KA-Mühlburg",
+          "Mühlburg",
+          "Mühlburg Bf"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 761
     },
@@ -10605,8 +12243,13 @@
       "properties": {
         "id": 760,
         "name": "Karlsruhe West",
+        "alternate_names": [
+          "KA-West",
+          "Westbahnhof",
+          "Westbf"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 760
     },
@@ -10623,7 +12266,7 @@
         "id": 759,
         "name": "Albtalbahnhof",
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 759
     },
@@ -10640,10 +12283,12 @@
         "id": 758,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 758
     },
@@ -10659,8 +12304,11 @@
       "properties": {
         "id": 757,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 757
     },
@@ -10676,8 +12324,11 @@
       "properties": {
         "id": 756,
         "name": "Augartenstraße",
+        "alternate_names": [
+          "Augartenstr"
+        ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 756
     },
@@ -10697,7 +12348,7 @@
           "Kongresszentrum"
         ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 755
     },
@@ -10717,7 +12368,7 @@
           "Ettlinger Tor"
         ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 754
     },
@@ -10737,7 +12388,7 @@
           "Marktplatz"
         ],
         "line": "KarlsruheS52",
-        "order": 18
+        "order": 20
       },
       "id": 753
     },
@@ -10757,7 +12408,7 @@
           "Pforzheim Hbf"
         ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 772
     },
@@ -10774,7 +12425,7 @@
         "id": 773,
         "name": "Pforzheim Maihälden",
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 773
     },
@@ -10791,7 +12442,7 @@
         "id": 774,
         "name": "Brötzingen Mitte",
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 774
     },
@@ -10808,7 +12459,7 @@
         "id": 775,
         "name": "Brötzingen Sandweg",
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 775
     },
@@ -10824,8 +12475,11 @@
       "properties": {
         "id": 776,
         "name": "Brötzingen Wohnlichstraße",
+        "alternate_names": [
+          "Brötzingen Wohnlichstr"
+        ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 776
     },
@@ -10841,8 +12495,11 @@
       "properties": {
         "id": 777,
         "name": "Birkenfeld (Württ)",
+        "alternate_names": [
+          "Birkenfeld"
+        ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 777
     },
@@ -10858,8 +12515,11 @@
       "properties": {
         "id": 778,
         "name": "Neuenbürg (Württ)",
+        "alternate_names": [
+          "Neuenbürg"
+        ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 778
     },
@@ -10876,7 +12536,7 @@
         "id": 779,
         "name": "Neuenbürg Süd",
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 779
     },
@@ -10892,8 +12552,11 @@
       "properties": {
         "id": 780,
         "name": "Neuenbürg (Württ.) Freibad",
+        "alternate_names": [
+          "Neuenbürg Freibad"
+        ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 780
     },
@@ -10909,8 +12572,11 @@
       "properties": {
         "id": 781,
         "name": "Rotenbach (Enz)",
+        "alternate_names": [
+          "Rotenbach"
+        ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 781
     },
@@ -10926,8 +12592,11 @@
       "properties": {
         "id": 782,
         "name": "Neuenbürg (Württ.) Eyachbrücke",
+        "alternate_names": [
+          "Neuenbürg Eyachbrücke"
+        ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 782
     },
@@ -10944,7 +12613,7 @@
         "id": 783,
         "name": "Höfen Nord",
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 783
     },
@@ -10960,8 +12629,11 @@
       "properties": {
         "id": 784,
         "name": "Höfen (Enz)",
+        "alternate_names": [
+          "Höfen"
+        ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 784
     },
@@ -10978,7 +12650,7 @@
         "id": 785,
         "name": "Calmbach",
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 785
     },
@@ -10995,7 +12667,7 @@
         "id": 786,
         "name": "Calmbach Süd",
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 786
     },
@@ -11012,7 +12684,7 @@
         "id": 787,
         "name": "Bad Wildbad Nord",
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 787
     },
@@ -11028,8 +12700,12 @@
       "properties": {
         "id": 788,
         "name": "Bad Wildbad Bahnhof",
+        "alternate_names": [
+          "Bad Wildbad Bf",
+          "Bad Wildbad"
+        ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 788
     },
@@ -11045,8 +12721,11 @@
       "properties": {
         "id": 789,
         "name": "Bad Wildbad Uhlandplatz/Sommerbergbahn",
+        "alternate_names": [
+          "Bad Wildbad Uhlandplatz"
+        ],
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 789
     },
@@ -11063,7 +12742,7 @@
         "id": 790,
         "name": "Bad Wildbad Kurpark",
         "line": "KarlsruheS6",
-        "order": 19
+        "order": 21
       },
       "id": 790
     },
@@ -11080,7 +12759,7 @@
         "id": 814,
         "name": "Achern",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 814
     },
@@ -11096,8 +12775,11 @@
       "properties": {
         "id": 813,
         "name": "Bühl (Baden)",
+        "alternate_names": [
+          "Bühl"
+        ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 813
     },
@@ -11114,7 +12796,7 @@
         "id": 812,
         "name": "Baden-Baden Rebland",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 812
     },
@@ -11131,7 +12813,7 @@
         "id": 811,
         "name": "Sinzheim",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 811
     },
@@ -11148,7 +12830,7 @@
         "id": 810,
         "name": "Sinzheim Nord",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 810
     },
@@ -11165,7 +12847,7 @@
         "id": 809,
         "name": "Baden-Baden",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 809
     },
@@ -11182,7 +12864,7 @@
         "id": 808,
         "name": "Baden-Baden Haueneberstein",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 808
     },
@@ -11199,7 +12881,7 @@
         "id": 807,
         "name": "Rastatt",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 807
     },
@@ -11216,7 +12898,7 @@
         "id": 806,
         "name": "Ötigheim",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 806
     },
@@ -11233,7 +12915,7 @@
         "id": 805,
         "name": "Bietigheim",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 805
     },
@@ -11250,7 +12932,7 @@
         "id": 804,
         "name": "Durmersheim",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 804
     },
@@ -11267,7 +12949,7 @@
         "id": 803,
         "name": "Durmersheim Nord",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 803
     },
@@ -11284,7 +12966,7 @@
         "id": 802,
         "name": "Forchheim",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 802
     },
@@ -11301,7 +12983,7 @@
         "id": 801,
         "name": "Albtalbahnhof",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 801
     },
@@ -11318,10 +13000,12 @@
         "id": 800,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 800
     },
@@ -11337,8 +13021,11 @@
       "properties": {
         "id": 799,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 799
     },
@@ -11354,8 +13041,11 @@
       "properties": {
         "id": 798,
         "name": "Augartenstraße",
+        "alternate_names": [
+          "Augartenstr"
+        ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 798
     },
@@ -11375,7 +13065,7 @@
           "Kongresszentrum"
         ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 797
     },
@@ -11395,7 +13085,7 @@
           "Ettlinger Tor"
         ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 796
     },
@@ -11415,7 +13105,7 @@
           "Marktplatz"
         ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 795
     },
@@ -11435,7 +13125,7 @@
           "Kronenplatz"
         ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 794
     },
@@ -11455,7 +13145,7 @@
           "Durlacher Tor - KIT Campus Süd"
         ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 793
     },
@@ -11472,7 +13162,7 @@
         "id": 792,
         "name": "Gottesauer Platz/BGV",
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 792
     },
@@ -11488,8 +13178,11 @@
       "properties": {
         "id": 791,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "KarlsruheS7",
-        "order": 20
+        "order": 22
       },
       "id": 791
     },
@@ -11506,7 +13199,7 @@
         "id": 829,
         "name": "Achern",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 829
     },
@@ -11522,8 +13215,11 @@
       "properties": {
         "id": 828,
         "name": "Bühl (Baden)",
+        "alternate_names": [
+          "Bühl"
+        ],
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 828
     },
@@ -11540,7 +13236,7 @@
         "id": 827,
         "name": "Baden-Baden Rebland",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 827
     },
@@ -11557,7 +13253,7 @@
         "id": 826,
         "name": "Sinzheim",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 826
     },
@@ -11574,7 +13270,7 @@
         "id": 825,
         "name": "Sinzheim Nord",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 825
     },
@@ -11591,7 +13287,7 @@
         "id": 824,
         "name": "Baden-Baden",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 824
     },
@@ -11608,7 +13304,7 @@
         "id": 823,
         "name": "Baden-Baden Haueneberstein",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 823
     },
@@ -11625,7 +13321,7 @@
         "id": 822,
         "name": "Rastatt",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 822
     },
@@ -11642,7 +13338,7 @@
         "id": 821,
         "name": "Muggensturm",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 821
     },
@@ -11659,7 +13355,7 @@
         "id": 820,
         "name": "Muggensturm Badesee",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 820
     },
@@ -11676,7 +13372,7 @@
         "id": 819,
         "name": "Malsch Süd",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 819
     },
@@ -11693,7 +13389,7 @@
         "id": 818,
         "name": "Malsch",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 818
     },
@@ -11709,8 +13405,12 @@
       "properties": {
         "id": 817,
         "name": "Bruchhausen (bei Ettlingen)",
+        "alternate_names": [
+          "Bruchhausen",
+          "Bruchhausen (b. Ettlingen)"
+        ],
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 817
     },
@@ -11727,7 +13427,7 @@
         "id": 816,
         "name": "Ettlingen West",
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 816
     },
@@ -11744,10 +13444,11 @@
         "id": 815,
         "name": "Karlsruhe Hauptbahnhof",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Karlsruhe Hbf"
         ],
         "line": "KarlsruheS71",
-        "order": 21
+        "order": 23
       },
       "id": 815
     },
@@ -11763,8 +13464,11 @@
       "properties": {
         "id": 830,
         "name": "Tullastraße/Alter Schlachthof",
+        "alternate_names": [
+          "Tullastr/Alter Schlachthof"
+        ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 830
     },
@@ -11781,7 +13485,7 @@
         "id": 831,
         "name": "Gottesauer Platz/BGV",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 831
     },
@@ -11801,7 +13505,7 @@
           "Durlacher Tor - KIT Campus Süd"
         ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 832
     },
@@ -11821,7 +13525,7 @@
           "Kronenplatz"
         ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 833
     },
@@ -11841,7 +13545,7 @@
           "Marktplatz"
         ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 834
     },
@@ -11861,7 +13565,7 @@
           "Ettlinger Tor"
         ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 835
     },
@@ -11881,7 +13585,7 @@
           "Kongresszentrum"
         ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 836
     },
@@ -11897,8 +13601,11 @@
       "properties": {
         "id": 837,
         "name": "Augartenstraße",
+        "alternate_names": [
+          "Augartenstr"
+        ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 837
     },
@@ -11914,8 +13621,11 @@
       "properties": {
         "id": 838,
         "name": "Poststraße",
+        "alternate_names": [
+          "Poststr"
+        ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 838
     },
@@ -11932,10 +13642,12 @@
         "id": 839,
         "name": "Bahnhofsvorplatz",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Bfsvorplatz",
+          "Bahnhofsvorplatz"
         ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 839
     },
@@ -11952,7 +13664,7 @@
         "id": 840,
         "name": "Albtalbahnhof",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 840
     },
@@ -11969,7 +13681,7 @@
         "id": 841,
         "name": "Forchheim",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 841
     },
@@ -11986,7 +13698,7 @@
         "id": 842,
         "name": "Durmersheim Nord",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 842
     },
@@ -12003,7 +13715,7 @@
         "id": 843,
         "name": "Durmersheim",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 843
     },
@@ -12020,7 +13732,7 @@
         "id": 844,
         "name": "Bietigheim",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 844
     },
@@ -12037,7 +13749,7 @@
         "id": 845,
         "name": "Ötigheim",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 845
     },
@@ -12054,7 +13766,7 @@
         "id": 846,
         "name": "Rastatt",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 846
     },
@@ -12071,7 +13783,7 @@
         "id": 847,
         "name": "Rastatt Beinle",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 847
     },
@@ -12088,7 +13800,7 @@
         "id": 848,
         "name": "Kuppenheim",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 848
     },
@@ -12105,7 +13817,7 @@
         "id": 849,
         "name": "Bischweier",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 849
     },
@@ -12122,7 +13834,7 @@
         "id": 850,
         "name": "Bad Rotenfels Schloss",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 850
     },
@@ -12138,8 +13850,12 @@
       "properties": {
         "id": 851,
         "name": "Bad Rotenfels Bahnhof/Rotherma",
+        "alternate_names": [
+          "Bad Rotenfels Bf/Rotherma",
+          "Bad Rotenfels/Rotherma"
+        ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 851
     },
@@ -12155,8 +13871,11 @@
       "properties": {
         "id": 852,
         "name": "Bad Rotenfels Weinbrennerstraße",
+        "alternate_names": [
+          "Bad Rotenfels Weinbrennerstr"
+        ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 852
     },
@@ -12173,7 +13892,7 @@
         "id": 853,
         "name": "Gaggenau",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 853
     },
@@ -12190,7 +13909,7 @@
         "id": 854,
         "name": "Gaggenau Mercedes-Benz-Werk",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 854
     },
@@ -12207,7 +13926,7 @@
         "id": 855,
         "name": "Ottenau",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 855
     },
@@ -12224,7 +13943,7 @@
         "id": 856,
         "name": "Hörden",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 856
     },
@@ -12241,7 +13960,7 @@
         "id": 857,
         "name": "Gernsbach",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 857
     },
@@ -12258,7 +13977,7 @@
         "id": 858,
         "name": "Gernsbach Mitte",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 858
     },
@@ -12275,7 +13994,7 @@
         "id": 859,
         "name": "Obertsrot",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 859
     },
@@ -12292,7 +14011,7 @@
         "id": 860,
         "name": "Hilpertsau",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 860
     },
@@ -12309,7 +14028,7 @@
         "id": 861,
         "name": "Weisenbach",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 861
     },
@@ -12326,7 +14045,7 @@
         "id": 862,
         "name": "Au im Murgtal",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 862
     },
@@ -12343,7 +14062,7 @@
         "id": 863,
         "name": "Langenbrand",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 863
     },
@@ -12360,7 +14079,7 @@
         "id": 864,
         "name": "Gausbach",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 864
     },
@@ -12377,7 +14096,7 @@
         "id": 865,
         "name": "Forbach (Schwarzwald)",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 865
     },
@@ -12394,7 +14113,7 @@
         "id": 866,
         "name": "Raumünzach",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 866
     },
@@ -12411,7 +14130,7 @@
         "id": 867,
         "name": "Kirschbaumwasen",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 867
     },
@@ -12428,7 +14147,7 @@
         "id": 868,
         "name": "Schönmünzach",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 868
     },
@@ -12445,7 +14164,7 @@
         "id": 869,
         "name": "Schwarzenberg",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 869
     },
@@ -12462,7 +14181,7 @@
         "id": 870,
         "name": "Huzenbach",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 870
     },
@@ -12479,7 +14198,7 @@
         "id": 871,
         "name": "Röt",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 871
     },
@@ -12496,7 +14215,7 @@
         "id": 872,
         "name": "Heselbach",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 872
     },
@@ -12513,7 +14232,7 @@
         "id": 873,
         "name": "Baiersbronn Schule",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 873
     },
@@ -12530,7 +14249,7 @@
         "id": 874,
         "name": "Baiersbronn",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 874
     },
@@ -12546,8 +14265,12 @@
       "properties": {
         "id": 875,
         "name": "Friedrichstal (bei Freudenstadt)",
+        "alternate_names": [
+          "Friedrichstal (Murgtal)",
+          "Friedrichstal (b. Freudenstadt)"
+        ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 875
     },
@@ -12564,7 +14287,7 @@
         "id": 876,
         "name": "Freudenstadt Stadt",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 876
     },
@@ -12581,7 +14304,7 @@
         "id": 877,
         "name": "Freudenstadt Schulzentrum/Panoramabad",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 877
     },
@@ -12598,7 +14321,7 @@
         "id": 878,
         "name": "Freudenstadt Industriegebiet/Schmid",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 878
     },
@@ -12614,8 +14337,11 @@
       "properties": {
         "id": 879,
         "name": "Freudenstadt Hauptbahnhof",
+        "alternate_names": [
+          "Freudenstadt Hbf"
+        ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 879
     },
@@ -12632,7 +14358,7 @@
         "id": 880,
         "name": "Grüntal-Wittlensweiler",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 880
     },
@@ -12649,7 +14375,7 @@
         "id": 881,
         "name": "Dornstetten-Aach",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 881
     },
@@ -12666,7 +14392,7 @@
         "id": 882,
         "name": "Dornstetten",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 882
     },
@@ -12682,8 +14408,11 @@
       "properties": {
         "id": 883,
         "name": "Schopfloch (bei Freudenstadt)",
+        "alternate_names": [
+          "Schopfloch (b. Freudenstadt)"
+        ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 883
     },
@@ -12700,7 +14429,7 @@
         "id": 884,
         "name": "Bittelbronn",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 884
     },
@@ -12717,7 +14446,7 @@
         "id": 885,
         "name": "Horb-Heiligenfeld",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 885
     },
@@ -12733,8 +14462,11 @@
       "properties": {
         "id": 886,
         "name": "Hochdorf (bei Horb)",
+        "alternate_names": [
+          "Hochdorf (b. Horb)"
+        ],
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 886
     },
@@ -12751,7 +14483,7 @@
         "id": 887,
         "name": "Eutingen Nord",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 887
     },
@@ -12768,7 +14500,7 @@
         "id": 888,
         "name": "Eutingen",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 888
     },
@@ -12785,7 +14517,7 @@
         "id": 889,
         "name": "Ergenzingen",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 889
     },
@@ -12802,7 +14534,7 @@
         "id": 890,
         "name": "Bondorf",
         "line": "KarlsruheS8",
-        "order": 22
+        "order": 24
       },
       "id": 890
     },
@@ -12819,10 +14551,11 @@
         "id": 891,
         "name": "Karlsruhe Hauptbahnhof",
         "alternate_names": [
-          "Hauptbahnhof"
+          "Hauptbahnhof",
+          "Karlsruhe Hbf"
         ],
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 891
     },
@@ -12839,7 +14572,7 @@
         "id": 892,
         "name": "Ettlingen West",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 892
     },
@@ -12855,8 +14588,12 @@
       "properties": {
         "id": 893,
         "name": "Bruchhausen (bei Ettlingen)",
+        "alternate_names": [
+          "Bruchhausen",
+          "Bruchhausen (b. Ettlingen)"
+        ],
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 893
     },
@@ -12873,7 +14610,7 @@
         "id": 894,
         "name": "Malsch",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 894
     },
@@ -12890,7 +14627,7 @@
         "id": 895,
         "name": "Malsch Süd",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 895
     },
@@ -12907,7 +14644,7 @@
         "id": 896,
         "name": "Muggensturm Badesee",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 896
     },
@@ -12924,7 +14661,7 @@
         "id": 897,
         "name": "Muggensturm",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 897
     },
@@ -12941,7 +14678,7 @@
         "id": 898,
         "name": "Rastatt",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 898
     },
@@ -12958,7 +14695,7 @@
         "id": 899,
         "name": "Rastatt Beinle",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 899
     },
@@ -12975,7 +14712,7 @@
         "id": 900,
         "name": "Kuppenheim",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 900
     },
@@ -12992,7 +14729,7 @@
         "id": 901,
         "name": "Bischweier",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 901
     },
@@ -13009,7 +14746,7 @@
         "id": 902,
         "name": "Bad Rotenfels Schloss",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 902
     },
@@ -13025,8 +14762,12 @@
       "properties": {
         "id": 903,
         "name": "Bad Rotenfels Bahnhof/Rotherma",
+        "alternate_names": [
+          "Bad Rotenfels Bf/Rotherma",
+          "Bad Rotenfels/Rotherma"
+        ],
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 903
     },
@@ -13042,8 +14783,11 @@
       "properties": {
         "id": 904,
         "name": "Bad Rotenfels Weinbrennerstraße",
+        "alternate_names": [
+          "Bad Rotenfels Weinbrennerstr"
+        ],
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 904
     },
@@ -13060,7 +14804,7 @@
         "id": 905,
         "name": "Gaggenau",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 905
     },
@@ -13077,7 +14821,7 @@
         "id": 906,
         "name": "Gaggenau Mercedes-Benz-Werk",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 906
     },
@@ -13094,7 +14838,7 @@
         "id": 907,
         "name": "Ottenau",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 907
     },
@@ -13111,7 +14855,7 @@
         "id": 908,
         "name": "Hörden",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 908
     },
@@ -13128,7 +14872,7 @@
         "id": 909,
         "name": "Gernsbach",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 909
     },
@@ -13145,7 +14889,7 @@
         "id": 910,
         "name": "Gernsbach Mitte",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 910
     },
@@ -13162,7 +14906,7 @@
         "id": 911,
         "name": "Obertsrot",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 911
     },
@@ -13179,7 +14923,7 @@
         "id": 912,
         "name": "Hilpertsau",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 912
     },
@@ -13196,7 +14940,7 @@
         "id": 913,
         "name": "Weisenbach",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 913
     },
@@ -13213,7 +14957,7 @@
         "id": 914,
         "name": "Au im Murgtal",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 914
     },
@@ -13230,7 +14974,7 @@
         "id": 915,
         "name": "Langenbrand",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 915
     },
@@ -13247,7 +14991,7 @@
         "id": 916,
         "name": "Gausbach",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 916
     },
@@ -13264,7 +15008,7 @@
         "id": 917,
         "name": "Forbach (Schwarzwald)",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 917
     },
@@ -13281,7 +15025,7 @@
         "id": 918,
         "name": "Raumünzach",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 918
     },
@@ -13298,7 +15042,7 @@
         "id": 919,
         "name": "Kirschbaumwasen",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 919
     },
@@ -13315,7 +15059,7 @@
         "id": 920,
         "name": "Schönmünzach",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 920
     },
@@ -13332,7 +15076,7 @@
         "id": 921,
         "name": "Schwarzenberg",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 921
     },
@@ -13349,7 +15093,7 @@
         "id": 922,
         "name": "Huzenbach",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 922
     },
@@ -13366,7 +15110,7 @@
         "id": 923,
         "name": "Röt",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 923
     },
@@ -13383,7 +15127,7 @@
         "id": 924,
         "name": "Heselbach",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 924
     },
@@ -13400,7 +15144,7 @@
         "id": 925,
         "name": "Klosterreichenbach",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 925
     },
@@ -13417,7 +15161,7 @@
         "id": 926,
         "name": "Baiersbronn Schule",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 926
     },
@@ -13434,7 +15178,7 @@
         "id": 927,
         "name": "Baiersbronn",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 927
     },
@@ -13450,8 +15194,12 @@
       "properties": {
         "id": 928,
         "name": "Friedrichstal (bei Freudenstadt)",
+        "alternate_names": [
+          "Friedrichstal (Murgtal)",
+          "Friedrichstal (b. Freudenstadt)"
+        ],
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 928
     },
@@ -13468,7 +15216,7 @@
         "id": 929,
         "name": "Freudenstadt Stadt",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 929
     },
@@ -13485,7 +15233,7 @@
         "id": 930,
         "name": "Freudenstadt Schulzentrum/Panoramabad",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 930
     },
@@ -13502,7 +15250,7 @@
         "id": 931,
         "name": "Freudenstadt Industriegebiet/Schmid",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 931
     },
@@ -13518,8 +15266,11 @@
       "properties": {
         "id": 932,
         "name": "Freudenstadt Hauptbahnhof",
+        "alternate_names": [
+          "Freudenstadt Hbf"
+        ],
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 932
     },
@@ -13536,7 +15287,7 @@
         "id": 933,
         "name": "Grüntal-Wittlensweiler",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 933
     },
@@ -13553,7 +15304,7 @@
         "id": 934,
         "name": "Dornstetten-Aach",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 934
     },
@@ -13570,7 +15321,7 @@
         "id": 935,
         "name": "Dornstetten",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 935
     },
@@ -13586,8 +15337,11 @@
       "properties": {
         "id": 936,
         "name": "Schopfloch (bei Freudenstadt)",
+        "alternate_names": [
+          "Schopfloch (b. Freudenstadt)"
+        ],
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 936
     },
@@ -13604,7 +15358,7 @@
         "id": 937,
         "name": "Bittelbronn",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 937
     },
@@ -13621,7 +15375,7 @@
         "id": 938,
         "name": "Horb-Heiligenfeld",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 938
     },
@@ -13637,8 +15391,11 @@
       "properties": {
         "id": 939,
         "name": "Hochdorf (bei Horb)",
+        "alternate_names": [
+          "Hochdorf (b. Horb)"
+        ],
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 939
     },
@@ -13655,7 +15412,7 @@
         "id": 940,
         "name": "Eutingen Nord",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 940
     },
@@ -13672,7 +15429,7 @@
         "id": 941,
         "name": "Eutingen",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 941
     },
@@ -13689,7 +15446,7 @@
         "id": 942,
         "name": "Ergenzingen",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 942
     },
@@ -13706,13 +15463,13 @@
         "id": 943,
         "name": "Bondorf",
         "line": "KarlsruheS81",
-        "order": 23
+        "order": 25
       },
       "id": 943
     }
   ],
   "properties": {
-    "totalStations": 410,
+    "totalStations": 438,
     "stationsPerLine": {
       "Karlsruhe1": 20,
       "Karlsruhe2": 43,
@@ -13729,6 +15486,8 @@
       "KarlsruheS31": 16,
       "KarlsruheS32": 18,
       "KarlsruheS4": 73,
+      "KarlsruheS41": 21,
+      "KarlsruheS42": 23,
       "KarlsruheS5": 49,
       "KarlsruheS51": 38,
       "KarlsruheS52": 26,
@@ -13738,6 +15497,6 @@
       "KarlsruheS8": 61,
       "KarlsruheS81": 53
     },
-    "nextStationId": 976
+    "nextStationId": 1020
   }
 }

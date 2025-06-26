@@ -104,60 +104,74 @@
     "textColor": "#FFFFFF",
     "order": 15
   },
+  "KarlsruheS41": {
+    "name": "S41",
+    "color": "#bed730",
+    "backgroundColor": "#616E15",
+    "textColor": "#FFFFFF",
+    "order": 16
+  },
+  "KarlsruheS42": {
+    "name": "S42",
+    "color": "#0090ad",
+    "backgroundColor": "#004857",
+    "textColor": "#FFFFFF",
+    "order": 17
+  },
   "KarlsruheS5": {
     "name": "S5",
     "color": "#F69897",
     "backgroundColor": "#B71210",
     "textColor": "#FFFFFF",
-    "order": 16
+    "order": 18
   },
   "KarlsruheS51": {
     "name": "S51",
     "color": "#F69897",
     "backgroundColor": "#B71210",
     "textColor": "#FFFFFF",
-    "order": 17
+    "order": 19
   },
   "KarlsruheS52": {
     "name": "S52",
     "color": "#F69897",
     "backgroundColor": "#B71210",
     "textColor": "#FFFFFF",
-    "order": 18
+    "order": 20
   },
   "KarlsruheS6": {
     "name": "S6",
     "color": "#301747",
     "backgroundColor": "#180C24",
     "textColor": "#FFFFFF",
-    "order": 19
+    "order": 21
   },
   "KarlsruheS7": {
     "name": "S7",
     "color": "#fff200",
     "backgroundColor": "#807900",
     "textColor": "#FFFFFF",
-    "order": 20
+    "order": 22
   },
   "KarlsruheS71": {
     "name": "S71",
     "color": "#fff200",
     "backgroundColor": "#807900",
     "textColor": "#FFFFFF",
-    "order": 21
+    "order": 23
   },
   "KarlsruheS8": {
     "name": "S8",
     "color": "#6e692a",
     "backgroundColor": "#373415",
     "textColor": "#FFFFFF",
-    "order": 22
+    "order": 24
   },
   "KarlsruheS81": {
     "name": "S81",
     "color": "#6e692a",
     "backgroundColor": "#373415",
     "textColor": "#FFFFFF",
-    "order": 23
+    "order": 25
   }
 }

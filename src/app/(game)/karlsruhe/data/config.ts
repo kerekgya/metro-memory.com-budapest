@@ -342,4 +342,9 @@ export const alternateNames: { [stationName: string]: string[] | undefined } = {
   'Friedrichstal (bei Freudenstadt)': ['Friedrichstal (Murgtal)'],
   Berufsschulzentrum: ['Böckingen Berufsschulzentrum'],
   Eschenau: ['Eschenau (bei Heilbronn)', 'Eschenau (b. Heilbronn)'],
+  'Mosbach (Baden)': ['Mosbach'],
+  'Gundelsheim (Neckar)': ['Gundelsheim'],
+  'Bad Friedrichshall Hauptbahnhof': ['Bad Friedrichshall-Jagstfeld'],
+  'Harmonie/Hafenmarktpassage': ['Harmonie'],
+  'Sinsheim (Elsenz) Hauptbahnhof': ['Sinsheim Hauptbahnhof', 'Sinsheim Hbf'],
 }
