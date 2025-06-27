@@ -293,7 +293,7 @@ export const alternateNames: { [stationName: string]: string[] | undefined } = {
   'Reitschulschlag (Wendeschleife)': ['Reitschulschlag'],
   'Stettfeld (Baden)': ['Stettfeld'],
   'Weingarten (Baden)': ['Weingarten'],
-  'Karlsruhe-Durlach': ['Durlach Bf'],
+  'Karlsruhe-Durlach': ['KA-Durlach', 'Durlach'],
   'Neckarturm am Kurt-Schumacher-Platz': ['Neckarturm'],
   'Schwaigern (Württemberg)': ['Schwaigern'],
   'Sulzfeld (Baden)': ['Sulzfeld'],

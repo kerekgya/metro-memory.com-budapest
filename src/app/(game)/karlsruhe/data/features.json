@@ -2456,7 +2456,8 @@
         "id": 304,
         "name": "Karlsruhe-Durlach",
         "alternate_names": [
-          "Durlach Bf"
+          "KA-Durlach",
+          "Durlach"
         ],
         "line": "Karlsruhe5",
         "order": 7
@@ -7795,7 +7796,8 @@
         "id": 577,
         "name": "Karlsruhe-Durlach",
         "alternate_names": [
-          "Durlach Bf"
+          "KA-Durlach",
+          "Durlach"
         ],
         "line": "KarlsruheS31",
         "order": 13
@@ -7857,7 +7859,8 @@
         "id": 591,
         "name": "Karlsruhe-Durlach",
         "alternate_names": [
-          "Durlach Bf"
+          "KA-Durlach",
+          "Durlach"
         ],
         "line": "KarlsruheS32",
         "order": 14
@@ -9202,7 +9205,8 @@
         "id": 652,
         "name": "Karlsruhe-Durlach",
         "alternate_names": [
-          "Durlach Bf"
+          "KA-Durlach",
+          "Durlach"
         ],
         "line": "KarlsruheS4",
         "order": 15
@@ -10831,7 +10835,8 @@
         "id": 696,
         "name": "Karlsruhe-Durlach",
         "alternate_names": [
-          "Durlach Bf"
+          "KA-Durlach",
+          "Durlach"
         ],
         "line": "KarlsruheS5",
         "order": 18
