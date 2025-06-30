@@ -1,6 +1,6 @@
-import * as path from 'path'
-import { promises as fs } from 'fs'
 import Color from 'color'
+import { promises as fs } from 'fs'
+import * as path from 'path'
 import { alternateNames, linesMetadata, type SourceJson } from './config'
 
 const Bun = {
@@ -223,6 +223,33 @@ const main = async () => {
         const existingStation = mapUniqueStationsByName.get(stationNode.name)
         if (existingStation === undefined) {
           const stationAlternateNames = alternateNames[stationNode.name] ?? []
+
+          // Add some alternate names commonly used around the network
+          if (stationNode.name.includes('Straße')) {
+            stationAlternateNames.push(
+              stationNode.name.replaceAll('Straße', 'Str'),
+            )
+          }
+          if (stationNode.name.includes('straße')) {
+            stationAlternateNames.push(
+              stationNode.name.replaceAll('straße', 'str'),
+            )
+          }
+          if (stationNode.name.includes('Bahnhof')) {
+            stationAlternateNames.push(
+              stationNode.name.replaceAll('Bahnhof', 'Bf'),
+              stationNode.name.replaceAll(' Bahnhof', ''),
+            )
+          }
+          if (stationNode.name.includes('Hauptbahnhof')) {
+            stationAlternateNames.push(
+              stationNode.name.replaceAll('Hauptbahnhof', 'Hbf'),
+            )
+          }
+          if (stationNode.name.includes('bei')) {
+            stationAlternateNames.push(stationNode.name.replaceAll('bei', 'b.'))
+          }
+
           if (stationAlternateNames.length > 0) {
             mapAlternateNamesUsed.set(stationNode.name, true)
           }
