@@ -23,7 +23,7 @@ export const metadata = config.METADATA
 export default function Wien() {
   return (
     <Provider value={config}>
-      <main className={font.className}>
+      <main className={`${font.className} min-h-screen`}>
         <GamePage fc={fc} />
       </main>
     </Provider>
