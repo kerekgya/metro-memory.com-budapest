@@ -25,7 +25,7 @@ export const metadata = config.METADATA
 export default function Hamburg() {
   return (
     <Provider value={config}>
-      <main className={font.className}>
+      <main className={`${font.className} min-h-screen`}>
         <GamePage fc={fc} routes={routesFc} />
       </main>
     </Provider>
