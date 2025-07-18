@@ -1,5 +1,6 @@
 import { Footer } from '@/components/Footer'
 import { Header } from '@/components/Header'
+import Main from '@/components/Main'
 
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -11,7 +12,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       </div>
       <div className="relative flex w-full flex-col min-h-screen">
         <Header />
-        <main className="flex-auto">{children}</main>
+        <Main className="flex-auto">{children}</Main>
         <Footer />
       </div>
     </>

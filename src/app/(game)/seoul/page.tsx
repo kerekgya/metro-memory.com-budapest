@@ -5,6 +5,7 @@ import { DataFeatureCollection } from '@/lib/types'
 import config from './config'
 import GamePage from '@/components/GamePage'
 import { Provider } from '@/lib/configContext'
+import Main from '@/components/Main'
 import { Noto_Sans_KR } from 'next/font/google'
 
 const font = Noto_Sans_KR({
@@ -24,9 +25,9 @@ export const metadata = config.METADATA
 export default function Seoul() {
   return (
     <Provider value={config}>
-      <main className={`${font.className} min-h-screen`}>
+      <Main className={`${font.className} min-h-screen`}>
         <GamePage fc={fc} />
-      </main>
+      </Main>
     </Provider>
   )
 }
