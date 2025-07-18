@@ -6,6 +6,7 @@ import { DataFeatureCollection, RoutesFeatureCollection } from '@/lib/types'
 import config from './config'
 import GamePage from '@/components/GamePage'
 import { Provider } from '@/lib/configContext'
+import Main from '@/components/Main'
 import { Inter } from 'next/font/google'
 
 const font = Inter({
@@ -25,9 +26,9 @@ export const metadata = config.METADATA
 export default function Karlsruhe() {
   return (
     <Provider value={config}>
-      <main className={`${font.className} min-h-screen`}>
+      <Main className={`${font.className} min-h-screen`}>
         <GamePage fc={fc} routes={routesFc} />
-      </main>
+      </Main>
     </Provider>
   )
 }
