@@ -289,4 +289,37 @@ export const i18n = rosetta({
       name: 'Namn',
     },
   },
+  hu: {
+    restartWarning: 'Minden eddigi eredményed elveszik. Biztosan újrakezded?',
+    introInstruction: 'Írd be egy állomás nevét, majd nyomj Entert',
+    backToTheGame: 'Vissza a játékhoz',
+    stations: ({ count }: { count: number }) =>
+      `${count} állomás${count > 1 ? '' : ''}`,
+    stationsFound: 'állomás megtalálva',
+    inputPlaceholder: 'Állomás',
+    alreadyFound: 'Már megtalálva',
+    startOver: 'Újrakezdés',
+    showSolutions: 'Megoldások mutatása',
+    hideSolutions: 'Megoldások elrejtése',
+    supportProject: 'A projekt támogatása',
+    about: 'A játékról',
+    congrats: ({ foundProportion }: { foundProportion: number }) =>
+      `Ügyes vagy! Az állomások ${
+        10 * Math.floor((foundProportion * 100) / 10)
+      } százalékát nevezted meg!`,
+    freeGame: 'Ez a játék ingyenes.',
+    supportWithDonation: ({ title }: { title: string }) => (
+      <span>
+        Támogasd a <strong>{title}</strong> fejlesztését adományozással.
+      </span>
+    ),
+    opensANewTab:
+      'Ez a link új lapot nyit meg, és a haladásod a böngésződben mentésre kerül.',
+    keepGoingForFree: 'Folytatás ingyen',
+    sort: {
+      order: 'Hozzáadás időpontja',
+      line: 'Vonal',
+      name: 'Név',
+    },
+  },
 })
