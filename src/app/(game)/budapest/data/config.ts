@@ -114,7 +114,8 @@ export const linesMetadata: {
 // // alternate names
 // // ----------------------------------------
 export const alternateNames: { [stationName: string]: string[] | undefined } = {
-  'S Széll Kálmán tér': ['Moszkva tér'],
-  'S Semmelweis Klinikák': ['Klinikák'],
-  'S Puskás Ferenc Stadion': ['Stadionok'],
+  'Széll Kálmán tér': ['Széll Kálmán tér', 'Moszkva tér'],
+  'Semmelweis Klinikák': ['Semmelweis Klinikák', 'Klinikák'],
+  'Puskás Ferenc Stadion': ['Puskás Ferenc Stadion', 'Stadionok'],
+  'Göncz Árpád városközpont': ['Göncz Árpád városközpont', 'Árpád híd'],
 }

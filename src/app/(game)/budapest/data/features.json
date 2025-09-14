@@ -217,6 +217,10 @@
       "properties": {
         "id": 195,
         "name": "Széll Kálmán tér",
+        "alternate_names": [
+          "Széll Kálmán tér",
+          "Moszkva tér"
+        ],
         "line": "BudapestMetro2",
         "order": 7
       },
@@ -336,6 +340,10 @@
       "properties": {
         "id": 202,
         "name": "Puskás Ferenc Stadion",
+        "alternate_names": [
+          "Puskás Ferenc Stadion",
+          "Stadionok"
+        ],
         "line": "BudapestMetro2",
         "order": 7
       },
@@ -489,6 +497,10 @@
       "properties": {
         "id": 218,
         "name": "Semmelweis Klinikák",
+        "alternate_names": [
+          "Semmelweis Klinikák",
+          "Klinikák"
+        ],
         "line": "BudapestMetro3",
         "order": 8
       },
@@ -642,6 +654,10 @@
       "properties": {
         "id": 209,
         "name": "Göncz Árpád városközpont",
+        "alternate_names": [
+          "Göncz Árpád városközpont",
+          "Árpád híd"
+        ],
         "line": "BudapestMetro3",
         "order": 8
       },
