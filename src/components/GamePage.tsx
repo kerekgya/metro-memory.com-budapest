@@ -445,7 +445,7 @@ export default function GamePage({
   )
 
   return (
-    <div className="flex h-screen flex-row items-center justify-between">
+    <div className="flex h-screen flex-row items-top justify-between">
       <div className="relative flex h-screen grow justify-center">
         <div className="absolute left-0 top-0 h-screen w-full" id="map" />
         <div className="absolute top-4 h-12 w-96 max-w-full px-1 lg:top-32">
