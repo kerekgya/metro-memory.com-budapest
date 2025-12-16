@@ -1,0 +1,23 @@
+{
+  "ToulouseMetroA": {
+    "name": "A",
+    "color": "#DB001B",
+    "backgroundColor": "#6E000D",
+    "textColor": "#FFFFFF",
+    "order": 1
+  },
+  "ToulouseMetroB": {
+    "name": "B",
+    "color": "#FFD900",
+    "backgroundColor": "#806D00",
+    "textColor": "#FFFFFF",
+    "order": 2
+  },
+  "ToulouseTramT1": {
+    "name": "M3",
+    "color": "#004687",
+    "backgroundColor": "#002344",
+    "textColor": "#FFFFFF",
+    "order": 3
+  }
+}

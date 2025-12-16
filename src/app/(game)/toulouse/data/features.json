@@ -1,0 +1,1085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4827682,
+          43.6290537
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Balma-Gramont",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4767106,
+          43.6242965
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Argoulets",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4696751,
+          43.619969
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Roseraie",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4633908,
+          43.6152847
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Jolimont",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4552018,
+          43.6108684
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Marengo-SNCF",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4496211,
+          43.6060958
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Jean Jaurès",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4453079,
+          43.6043141
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Capitole",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4437554,
+          43.6000704
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Esquirol",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4314821,
+          43.5979252
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Saint-Cyprien - République",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4230253,
+          43.5963798
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Patte d'Oie",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4185746,
+          43.5934569
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Arènes",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4184236,
+          43.5874958
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Fontaine Lestang",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4151612,
+          43.583499
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Mermoz",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4122877,
+          43.5800066
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Bagatelle",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4020359,
+          43.574715
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Mirail-Université",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4018197,
+          43.5708531
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Reynerie",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3981505,
+          43.5660618
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Bellefontaine",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3922586,
+          43.5699548
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Basso Cambo",
+        "line": "ToulouseMetroA",
+        "order": 1
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4525318,
+          43.640382
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "Borderouge",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4448987,
+          43.6379903
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "Trois Cocus",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4360279,
+          43.6340845
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "La Vache",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.434065,
+          43.6263817
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "Barrière de Paris",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.435805,
+          43.6204971
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "Minimes - Claude Nougaro",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4345413,
+          43.6154672
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "Canal du Midi",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4351647,
+          43.6105033
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Compans-Caffarelli",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4451331,
+          43.6091034
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Jeanne d'Arc",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4483803,
+          43.6059902
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Jean Jaurès",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4521612,
+          43.6004617
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "François Verdier",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4453956,
+          43.5974983
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Carmes",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4446112,
+          43.5924567
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Palais de Justice",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4470836,
+          43.586322
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Saint-Michel - Marcel Langer",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4420411,
+          43.5797326
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Empalot",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4501089,
+          43.5804421
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Saint-Agne SNCF",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4590595,
+          43.5797077
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Saouzelong",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4618857,
+          43.5747162
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Rangueil",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4645037,
+          43.568086
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Faculté de Pharmacie",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4632875,
+          43.5608451
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Université Paul Sabatier",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4764144,
+          43.5557687
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Ramonville",
+        "line": "ToulouseMetroB",
+        "order": 2
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4440529,
+          43.5927279
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Palais de Justice",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4404078,
+          43.5921882
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "Île du Ramier",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4354553,
+          43.5926134
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Fer à Cheval",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4318859,
+          43.5893601
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "Avenue de Muret-Marcel Cavaillé",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4278747,
+          43.5855872
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Croix de Pierre",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4216528,
+          43.5896256
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "Déodat de Séverac",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4179244,
+          43.5928144
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Arènes",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4094423,
+          43.5948728
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Hippodrome",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.411406,
+          43.6008658
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Zénith",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4076568,
+          43.6031174
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Cartoucherie",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4019875,
+          43.609111
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "Purpan",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3983027,
+          43.6140753
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "Arènes Romaines",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3969311,
+          43.6182283
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "Ancely",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3934578,
+          43.6254815
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Servanty Airbus",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3917091,
+          43.6308735
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "Guyenne - Berry",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3913438,
+          43.6340381
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "Pasteur-Mairie de Blagnac",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3900798,
+          43.6367417
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Place du Relais",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3853288,
+          43.6361626
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "Odyssud - Ritouret",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.38276,
+          43.6400747
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Patinoire-Barradels",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3774584,
+          43.6447442
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "Grand Noble",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3756173,
+          43.6485429
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Place Georges Brassens",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3735646,
+          43.6548279
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "Andromède-Lycée",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3694901,
+          43.6602556
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "Beauzelle - Aéroscopia",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3625882,
+          43.6634534
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "Aéroconstellation",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3599375,
+          43.6676123
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "MEETT",
+        "line": "ToulouseTramT1",
+        "order": 3
+      },
+      "id": 39
+    }
+  ],
+  "properties": {
+    "totalStations": 60,
+    "stationsPerLine": {
+      "ToulouseMetroA": 18,
+      "ToulouseMetroB": 20,
+      "ToulouseTramT1": 25
+    },
+    "nextStationId": 64
+  }
+}

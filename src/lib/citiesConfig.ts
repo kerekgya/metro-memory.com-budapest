@@ -21,6 +21,7 @@ import potsdam from '@/app/(game)/potsdam/opengraph-image.jpg'
 import karlsruhe from '@/app/(game)/karlsruhe/opengraph-image.jpg'
 import dresden from '@/app/(game)/dresden/opengraph-image.jpg'
 import budapest from '@/app/(game)/budapest/opengraph-image.jpg'
+import toulouse from '@/app/(game)/toulouse/opengraph-image.jpg'
 
 
 import { StaticImageData } from 'next/image'
@@ -148,6 +149,11 @@ export const cities: ICity[] = [
     name: 'Budapest',
     image: budapest,
     link: '/budapest',
+  },
+  {
+    name: 'Toulouse',
+    image: toulouse,
+    link: '/toulouse',
   },
   // {
   //   name: 'Vancouver',
